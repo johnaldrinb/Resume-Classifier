@@ -9,7 +9,7 @@ import numpy as np
 import os.path
 
 
-class resume_classifier:
+class ResumeClassifier:
 
     MODEL_FILE = 'model/resume_classifier_model.h5'
     
@@ -71,6 +71,6 @@ class resume_classifier:
 
 
 
-classifier = resume_classifier()
+classifier = ResumeClassifier()
 classifier.train()
         

@@ -19,30 +19,30 @@ class ResumeClassifier:
 
         if os.path.isfile(self._MODEL_FILE):
             # if model file exists
-            self._load_model()
+            self.__load_model()
 
         else:
-            self._init_model()
+            self.__init_model()
 
-    def _init_model(self):
+    def __init_model(self):
         # initialize model configuration
         self._model = Sequential()
-        self._model.add(Dense(128, activation='relu', input_dim=50))
-        self._model.add(Dropout(0.3))
-        self._model.add(Dense(64, activation='relu'))
-        self._model.add(Dropout(0.3))
+        self._model.add(Dense(150, activation='relu', input_dim=50))
+        self._model.add(Dropout(0.5))
+        self._model.add(Dense(75, activation='relu'))
+        self._model.add(Dropout(0.5))
         self._model.add(Dense(5, activation='softmax'))
 
-        sgd = SGD(lr=0.02, decay=1e-6, momentum=0.9, nesterov=True)
+        sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
         self._model.compile(loss='categorical_crossentropy',
                       optimizer=sgd,
                       metrics=['accuracy'])
 
-    def _load_model(self):
+    def __load_model(self):
         # loads existing model
         self._model = load_model(self._MODEL_FILE)
 
-    def _save_model(self):
+    def __save_model(self):
         # save current model configuration
         self._model.save(self._MODEL_FILE)
 
@@ -59,7 +59,7 @@ class ResumeClassifier:
                   y_train,
                   epochs=150,
                   batch_size=10)
-        self._save_model()
+        self.__save_model()
         #score = model.evaluate(x_test, y_test, batch_size=10)
 
     def classify(self, inputs):

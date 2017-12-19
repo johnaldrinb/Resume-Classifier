@@ -10,21 +10,19 @@ import os.path
 
 
 class ResumeClassifier:
-
-    MODEL_FILE = 'model/resume_classifier_model.h5'
     
     def __init__(self):
         # initialize model
         # load model if there's an existing one
+        self._MODEL_FILE = 'model/resume_classifier_model.h5'
         self._model = None
 
-        if os.path.isfile(MODEL_FILE):
+        if os.path.isfile(self._MODEL_FILE):
             # if model file exists
             self._load_model()
 
         else:
             self._init_model()
-            self._save_model()
 
     def _init_model(self):
         # initialize model configuration
@@ -42,11 +40,11 @@ class ResumeClassifier:
 
     def _load_model(self):
         # loads existing model
-        self._model = load_model(MODEL_FILE)
+        self._model = load_model(self._MODEL_FILE)
 
     def _save_model(self):
         # save current model configuration
-        self._model.save(MODEL_FILE)
+        self._model.save(self._MODEL_FILE)
 
     def train(self):
         # train the neural network
@@ -61,16 +59,12 @@ class ResumeClassifier:
                   y_train,
                   epochs=150,
                   batch_size=10)
-        self.save_model()
+        self._save_model()
         #score = model.evaluate(x_test, y_test, batch_size=10)
 
     def classify(self, inputs):
         # classify input
         # arguments: inputs - array of input
+        # must return array of probabilities
         model.predict(inputs)
-
-
-
-classifier = ResumeClassifier()
-classifier.train()
         

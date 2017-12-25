@@ -50,9 +50,11 @@ class ResumeClassifier:
         # train the neural network
         # temp training data
         x_train = np.random.random((1000, 50))
-        y_train = keras.utils.to_categorical(np.random.randint(5, size=(1000, 1)), num_classes=5)
+        y_train = keras.utils.to_categorical(
+            np.random.randint(5, size=(1000, 1)), num_classes=5)
         x_test = np.random.random((100, 50))
-        y_test = keras.utils.to_categorical(np.random.randint(5, size=(100, 1)), num_classes=5)
+        y_test = keras.utils.to_categorical(
+            np.random.randint(5, size=(100, 1)), num_classes=5)
         x_input = np.random.random((1, 50))
 
         self._model.fit(x_train,
@@ -62,7 +64,7 @@ class ResumeClassifier:
         self.__save_model()
         #score = model.evaluate(x_test, y_test, batch_size=10)
 
-    def classify(self, inputs):
+    def classify(self, inputs=None):
         # classify input
         # arguments: inputs - array of input
         # must return array of probabilities

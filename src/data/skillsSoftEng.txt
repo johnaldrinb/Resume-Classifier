@@ -1,0 +1,3934 @@
+C
+Perl
+VMS
+C++
+C#
+NET
+XAML/WPF
+Java
+Javascript
+Unix/Linux
+Agile/Scrum
+Java
+Python
+Swift
+Ruby
+RATIONAL
+TESTING
+ECLIPSE
+JAVA
+PERFORMANCE TESTING
+antenna
+CPP
+Electronic Control
+exchange
+HFSS
+MERCURY
+RMS
+TESTING
+ANDROID
+FRAMEWORKS
+JAVA
+Python
+R
+R Shiny
+C++
+PHP
+Ada
+integration
+INTEGRATOR
+software development
+STRUCTURED SOFTWARE
+Endevor
+Java
+quality assurance
+software development
+STRUCTURED SOFTWARE
+C++
+Javascript
+Python
+Application Security
+Information Security
+Software Security
+Web Development
+SQL
+Cybersecurity
+Penetration Testing
+Software Development
+Application Development
+NetworkSecurity
+Cryptography
+Linux
+OWASP
+C
+NET
+ASP
+ASPNET
+MS ASP
+C#
+C#
+ASPNET
+MS SQL SERVER
+Angular 2
+Angular 4
+Entity Framework
+Bootstrap
+Net Core
+Angular Material
+Web API
+AspNet MVC
+Azure ServiceBus
+Active Directory
+Cisco
+IOS
+Microsoft Office
+Windows 7
+NET
+AngularJS
+Assembly
+C/C++
+CMS
+Java
+HTML
+CSS
+Javascript
+Jquery
+NodeJS
+LinuxLanguages: C/C++
+Java
+C#
+SQL
+Assembly
+Visual StudioWeb Development: HTML
+CSS
+PHP
+JavaScript
+jQuery
+AngularJS
+NodeJS
+MODx CMSOperating System: Windows
+LinuxHardware: TI MSP 430 Microcontroller
+Arduino
+Raspberry PI
+HTML
+JavaScript
+JDBC
+JSP
+XML
+Java
+C#
+Oracle
+Sql server
+J2EE
+Business Intelligence
+Javascript
+Jsp
+SOAP
+Rest
+Visual Studio
+C#
+Javascript
+HTML 5
+CSS
+Excel
+Word
+Powerpoint
+NET
+AspNet
+SQL
+Git
+J2SE
+UNIX
+XML
+ECLIPSE
+Subversion
+C
+C+
+Java
+JavaScript
+PROACTIVE
+SELF MOTIVATED
+CLIENT SUPPORT
+CONFIDENT
+NATURAL
+Eclipse
+Rally
+Splunk
+UNIX
+VMware
+C
+C+
+Java
+JavaScript
+Brocade
+career development
+integration
+INTEGRATOR
+project management
+DATABASE
+NET
+ANGULARJS
+JAVA
+ANDROID
+Bash
+jQuery
+Python
+Subversion
+SVN
+Git
+Linux
+C
+HTTP
+Java
+MySQL
+REST
+Embedded Systems
+C
+Real Time Operating Systems
+Solaris
+Unix
+Storage
+Perl
+Linux
+Shell Scripting
+Device Drivers
+Bash
+Software Developement
+LINUX
+PYTHON
+C++
+JAVA
+MATLAB
+LINUX
+PYTHON
+C++
+JAVA
+MATLAB
+JAVASCRIPT
+PHP
+PYTHON
+FIRMWARE
+ASSEMBLY
+C++
+C
+AMAZON DYNAMODB
+Apache
+database
+Java
+Linux
+AMAZON DYNAMODB
+Apache
+database
+Java
+Linux
+ENERGETIC
+IOS
+LINUX
+SELF MOTIVATED
+REMEDY
+TRAINING
+SECURITY
+BMC
+TESTING
+Java
+Spring
+Javascript
+Javascript
+JQuery
+AngularJS
+PERL
+TESTING
+FORTRAN
+ALGORITHMS
+AWARD
+Ada 83/95/05/12
+Embedded Real-time development
+Flight control and simulation
+NET
+SQL
+ACCESS
+ADO
+BIZTALK
+Azure
+VSTS
+TFS
+Agile
+Scrum
+unit testing
+CI/CD
+NET
+SQL
+ACCESS
+ADO
+BIZTALK
+Azure
+VSTS
+TFS
+Agile
+Scrum
+unit testing
+CI/CD
+Enterprise Storage
+Java
+Block Storage
+Python
+CustomerRelations
+Management
+Mentoring
+Scrum
+Ruby
+Perl
+SQL Server
+PostgresSQL
+Javascript (Angular
+JQuery
+ReactJS)
+Lucene
+Active Directory
+Deployment
+Kerberos
+security
+testing
+C#
+WebAPI
+Angular 4
+HTML 5
+CSS
+ASP
+ASPNET
+MS ASP
+VBNET
+NET
+C#
+XML
+MAINFRAME
+UNIX
+HTML
+JAVA
+architecture
+AWS
+Linux
+Mongodb
+MySQL Ruby
+Microservices
+REST APIs
+Event Sourced Architecture
+Java
+C
+Scala
+MongoDB
+MySQL
+Redis
+Memcache
+RabbitMQ
+Rails
+RSpec
+Github
+Docker
+Heroku
+AWS
+RightScale
+Linux
+DevOps
+Data Science
+Cloud Computing
+Embedded Software
+Start-upveteran
+"Solid bloke"
+NET
+APEX
+JavaScript
+Salesforcecom
+SQL
+JAVA
+ORACLE
+ECLIPSE
+JSP
+JBOSS
+PROGRESS
+TESTING
+SOFTWARE DEVELOPMENT
+STRUCTUREDSOFTWARE
+RDMS
+C
+Motorola
+SNMP
+Unix
+VxWorks
+SQL
+ORACLE
+SQL SERVER
+DATABASES
+Visual Studio
+C++
+C#
+Visual C++
+Xamarin
+Powershell
+Linux
+Windows
+IOS
+Android
+NET
+database
+Eclipse
+GNU
+Linux
+Manual Testing
+Automation Testing
+Java
+C
+Networking
+Assembly
+Assembly Language
+BGP
+C++
+AIX
+JAVA
+LINUX
+C#
+Active DoD
+C
+Oracle
+Postgres
+Solaris
+C#
+NET
+aspnet
+sql
+
+API
+C+
+Microsoft Office
+MS Office
+SQL
+Databases
+Eclipse
+Jenkins Continuous Integration
+Linux
+Project Management
+Oracle
+Visual Studio
+ASPNET
+IIS
+AJAX
+CSS
+JavaScript
+HTML
+WCF
+OWIN
+SignalR
+TPL
+Silverlight
+C#
+NET
+WPF
+C++
+ATL
+WTL
+MFC
+Platform SDK
+Team Foundation Server
+Agile
+Scrum
+MVVM
+CMMI
+database
+Java
+JSP
+Oracle
+NET
+MSSQLServer
+C#
+C++
+C
+MySQL
+PHP
+javascript
+html
+Enovia V6 development and customization
+Python
+PHP
+PL/SQL
+JavaScript
+CSS
+HTML
+Django
+jQuery
+SQL
+MySQL
+PostgresSQL
+Linux
+Red Hat Linux
+Ubuntu
+Java
+database
+object-oriented
+PowerBuilder
+stored procedures
+Sybase
+JAVA
+LINUX
+ORACLE
+Amazon Elastic Compute Cloud
+AWS
+JSP
+Junit
+Subversion
+Tomcat
+XML
+Active Directory
+Deployment
+Kerberos
+security
+testing
+C#
+WebAPI
+Angular 4
+HTML 5
+CSS
+Apache
+API
+CSS
+Java
+PHP
+C++
+OBJECT ORIENTED
+OBJECT ORIENTED PROGRAMMING
+OOP
+IPC
+Unix
+VIsual Studio
+RTP
+Java
+C/C++
+C#
+Perl
+Windows and Windows Server
+Linux
+Nucleus Plus
+WinDBG
+AccuRev
+msbuild
+Ant
+InstallShield
+Hyper-V
+AudioCodecs
+TCP/UDP Sockets
+RESTful Web Services
+UML
+Windows Driver Framework
+Design Patterns
+Microsoft Lync
+SIP
+H264
+ISDN
+AES Encryption
+SQL Server
+MySQL
+Microsoft Access
+C#
+Java
+Database Development
+Mobile Development
+XML
+JAVASCRIPT
+PERL
+LINUX
+CSS
+ARM
+firmware
+JTAG
+Linux
+Python
+MICROSOFT SHAREPOINT
+SHAREPOINT
+ASP
+ASPNET
+MSASP
+Javascript
+Java
+React / Redux
+Emberjs
+C++
+Nodejs
+EJB / JPA
+C/C++
+Linux
+Python
+GDB
+PEOPLESOFT
+ORACLE
+SQR
+SECURITY
+ORACLE 10G
+Net
+C#
+Visual Studio
+WINDOWS PRESENTATION FOUNDATION
+WPF
+NET
+C#
+HL7
+MS NET
+MS SQL SERVER
+Android
+C
+Linux
+Perl
+Python
+DOD
+CONTENT MANAGEMENT SYSTEM
+MODEL VIEW CONTROLLER
+CMS
+MODEL-VIEW-CONTROLLER
+Java
+Javascript
+C++
+Spring
+Tomcat
+Integration
+Perl
+GIS
+Problem Resolution
+PROCESS IMPROVEMENT
+QA
+Linux
+Windows Server 2012
+Windows Server 2008
+Windows Server 2003
+Windows 10
+Windows 8
+Windows Vista
+Windows 7
+DataBackup
+SAN
+System Administration
+Vmware
+Test Plandevelopment
+Windows Server 2016
+Personnel Management
+TechnicalWriting
+Networking
+Disaster Recovery
+Microsoft Office
+Resource Management
+Project Management
+AUTOCAD
+CASH
+CASH HANDLING
+DETAIL-ORIENTED
+EXCELLENT MULTI-TASKER
+C++
+Javascript
+C
+Linux
+Git
+OpenGL ES
+Android
+AVR
+iOS
+Natural Language Processing
+Excel
+Java
+Outlook
+PowerPoint
+Word
+NET
+C#
+MODEL VIEW CONTROLLER
+MODEL-VIEW-CONTROLLER
+MVC
+NET
+C#
+Visual Studio
+TFS
+Reactjs
+AngularJS
+ScrumMaster
+Agile
+XML
+HTML 5
+Javascript
+SQL
+Javascript
+jQuery
+React
+Swift
+Ruby
+Elixir
+PHP
+HTML
+CSS3
+Photoshop
+Illustrator
+Java
+HTML
+CSS
+Javascript
+Testing
+Oracle
+MySQL
+Usability Testing
+Linux
+c#
+SQL
+Javascript
+HTML 5
+PY
+JQuery
+Angular
+Mapbox
+D3
+C++
+Software development
+ASP
+ASPNET
+C#
+MS ASP
+MODEL VIEW CONTROLLER
+UNIX
+C++
+Object Oriented Programming
+Visual Studio
+C#
+NET
+Technical Support
+PLM
+CAD
+Testing
+QualityAssurance
+Windows
+C++
+NET
+ASP
+ASPNET
+C#
+DB2
+ESTIMATING
+FILE MANAGER
+JCL
+LINUX
+CACS/STRATA
+Websphere
+Oracle
+Quality Center
+TOAD
+Rally
+Technology Development Platform
+Fileaid
+File Manager
+Project estimating Tool MST
+Filezilla
+Puty
+XML
+DB2
+Apache
+Avro
+Java
+JUnit
+Maven
+Predictive Analytics
+R
+SQL
+Excel
+PresentationSkills
+Agile
+Data Mining
+Tableau
+Big Data
+AzureML
+Sharepoint Designer
+Team Management
+ETL
+Azure
+Visual Studio
+C#
+html
+MS SQL SERVER
+SQL
+XML
+Angular2
+Cordova
+JSON
+Ionic @
+Bash
+C#
+C
+JavaScript
+Security
+Ruby
+JAVA
+LINUX
+MYSQL
+ORACLE
+SIKULI
+NET
+C#
+CLEARCASE
+CLEARQUEST
+C#
+C
+CSS
+Git
+JIRA
+Visual Studio
+Javascript
+JQuery
+PHP
+C++
+HTML
+LEADERSHIP SKILLS
+PRESENTATION SKILLS
+TEAM PLAYER
+JAVA
+MICROSOFT SHAREPOINT
+SHAREPOINT
+NET
+ACCESS
+ASP
+Aspnet
+MS ASP
+MS SQL SERVER
+Pega
+Word
+Excel
+Editing
+Account Management
+Adobe suite
+Ruby on Rails
+HTML 5
+CSS
+Bootstrap
+Customer Service
+Data Entry
+React
+Google GoLang
+ConcourseCli
+Javascript
+C#
+Python
+Java
+SQL
+HTML
+CSS
+Ruby onRails
+Git
+SVN
+DNS
+Linux
+PHP
+JQuery
+C
+C++
+Ja
+Unix Administration
+Linux
+Solaris
+Solr/Lucene
+International Business
+internationalization
+Unicode
+JIRA
+C#
+C++
+CSS
+HTML 5
+Java
+Python
+SQL
+Agile
+Git
+PHP
+Javascript
+Java
+C++
+C#
+C
+MySQL
+Web Development
+SEO
+NET
+UML
+MVC
+MSSQL
+MongoDB
+Android
+Mongoose
+NodeJs
+Phpframeworks codeigniter and laravel
+OOP programming
+API
+TESTING
+AWS
+Git
+JAVASCRIPT
+NET
+C
+C+
+Java
+Linux
+Agile
+Javascript
+Java
+Oracle
+JQuery
+Team Management
+Microsoft Office
+Management
+Automotive Diagnostic and Repair
+Police Officer
+Systems Security
+Web Development
+Customer Service Skills
+Windows
+Linux
+Android
+JAVA
+MICROSOFT SHAREPOINT
+SHAREPOINT
+NET
+ACCESS
+C++
+Java
+Software Development
+MFC
+Java
+networking
+aurdino
+manual testing
+SQL
+Java
+MySQL
+Python
+Cassandra
+PySpark
+Scala
+Mocking Bot
+MapReduce
+Hadoop
+Kibana
+AWS
+Amazon RDS
+SSIS
+HTML5
+LabVIEW
+LabVIEW Real-time
+and LabVIEW FPGA
+Xilinx ISE
+Matlab and Simulink
+C#
+SQL
+NET
+SQL
+TOMCAT
+MYSQL
+HTML5
+WEBLOGIC
+API
+TESTING
+AWS
+Git
+JAVASCRIPT
+C++
+ANDROID
+Git
+Linux
+C
+Java
+SQL
+C#
+NET
+ASPNET
+ASPNET Web API
+Web Services
+ADONET
+CSS3
+JavaScript
+JQuery
+Bootstrap
+JSON
+XML
+Silverlight
+Microsoft Visual Studio
+SVN
+Microsoft SQL Server
+Adobe Photoshop
+HTML5
+Adobe InDesign
+Adobe Acrobat
+Adobe Illustrator
+MVC
+Web Forms
+Operating System Windows XP
+OS/400Programming Languages : CLLE
+RPG ILE
+RPG Free
+RPG III
+CL
+SQLRPGLE Tools Used : SEU
+PDM
+SRCDBG
+SDA
+RLU
+DFU And Query/400 Database: SQL
+DB2/400
+C++
+Git
+JAVA
+LINUX
+PYTHON
+ADO
+ADONET
+AJAX
+API
+ASP
+Accounting
+Graphic Design
+Networking
+PR
+PUBLIC RELATIONS
+UNIX
+C++
+Object Oriented Programming
+Visual Studio
+C#
+NET
+Technical Support
+PLM
+CAD
+Testing
+QualityAssurance
+Windows
+C#
+HTML
+Javascript
+MySQL
+SQL
+NET
+Entity Framework
+Design Patterns
+Web API
+Wcf
+Web Services
+Net
+ASP
+ASPNet
+C#
+XML
+C
+C++
+C#
+Embedded Systems
+BASH
+EXCEL
+GNU
+JAVA
+LINUX
+Scala
+Java
+J2EE
+NET
+C#
+C++
+C
+Python
+SQL
+Spring
+Matlab
+Oracle
+XML
+HTML 5
+CSS3
+JavaScript
+JSP
+Eclipse
+ETL
+Apache
+PHP
+Wordpress
+Soap
+Android
+Linux
+AJAX
+CSS
+JavaScript
+jQuery
+MySQL
+BASH
+C++
+Git
+IDL
+JAVA
+C++
+DATA ANALYSIS
+DATA WAREHOUSING
+EXCEL
+Git
+C+
+MS SQL SERVER
+SQL
+SQL server
+UNIX
+C#
+NET
+CSS
+Database
+HTML
+SQL
+PHP
+Javascript
+NET
+HTML
+VISUAL STUDIO
+Hyland OnBase
+Visual Studio
+C#
+SQL
+MVC
+WPF
+SQL
+AspNet
+MVVM
+XAML
+CSS
+HTML
+JQuery
+Javascript
+Word
+Excel
+Powerpoint
+Customer Service
+Team Leadership
+Problem Solving
+Conflict Resolution
+Linq
+APPLICATION DEVELOPMENT
+JDA
+WMS
+XML
+ECLIPSE
+BI
+BUSINESS INTELLIGENCE
+MICROSOFT SSRS
+SQL
+SSRS
+C++
+JAVA
+DATABASE
+APACHE CASSANDRA
+APACHEKAFKA
+Nodejs
+Scala
+Akka
+Angular
+RabbitMQ
+Spring
+C++
+NET
+C#
+FLASH
+IPHONE
+ASP
+ASPNet
+C#
+MS ASP
+MS SQL Server
+Inventory
+XML
+C#
+MS SQL SERVER
+SQL
+SQL SERVER
+Skills/Environment Java
+C/C++
+Python
+JavaScript
+Emberjs
+Nodejs AWS DynamoDB
+S3
+Git
+Linux
+LaTex
+Eclipse
+Vim
+Visual Studio
+scikit-learn
+iPython NodeBook
+MATLAB
+Kafka
+Cassandra
+Docker
+Avaya
+Cisco
+CMS
+testing
+Unix
+C/C++
+Eclipse IDE
+Microsoft Visual Studio
+Java
+Subversion
+Microsoft Windows
+Linux
+VxWorks
+Clearcase/Clearquest
+ACTIVE DIRECTORY
+NASA
+MICROSOFT SHAREPOINT
+PCS
+REMEDY
+CSS
+HTML
+jQuery
+AJAX
+Javascript
+Ruby
+Node
+React
+Redux
+ASP
+ASPNET
+C#
+firmware
+Java
+AngularJS
+Javascript
+PHP
+MySQL
+PostgreSQL
+Bootstrap
+HTML
+CSS
+Python
+Java
+C++
+C
+C++
+MOTIF
+IRIX
+FORTRAN
+VMS
+UNIX
+Java
+Perl
+CLIPS
+C
+Ada
+BI
+BUSINESS INTELLIGENCE
+Java
+OPA
+SQL
+C#
+Javascript
+AngularJS
+HTML 5
+CSS
+JAVASCRIPT
+PYTHON
+JAVA
+C#
+C++
+C++
+Python
+Perl
+Analysis
+Unix
+Vim
+Emacs
+Git
+Mercurial
+Clearcase
+SVN
+OpenGL
+Graphics
+GLSLShading
+Visual Studio
+JAVASCRIPT
+jQuery
+SQL
+PHP
+C
+C+
+Crystal Reports
+Java
+CICS
+COBOL
+Detail-oriented
+JCL
+VSAM
+Active Directory
+DHCP
+DNS
+HTML
+VMware
+C++
+HMI
+HUMAN MACHINE INTERFACE
+MATLAB
+C
+Simulink
+Python
+Doors
+Polarion
+NET
+ANDROID
+ASP
+BOOTSTRAP
+C#
+Database
+JavaScript
+MySql
+PHP
+Python
+APACHE HBASE
+AWS
+Git
+HBase
+Junit
+Android
+C
+Eclipse
+Excel
+Java
+Swift
+IOS
+C++
+TECHNICALS KIL LS LANGUAGES/FRAMEWORKS C/C++
+C#
+Git
+SQL
+Python
+Java
+Perl
+JavaScript
+HTML
+JQuery
+CSS
+Ruby
+Angular/Knockout
+Bootstrap METHODOLOGIES Agile
+Scrum
+ASP
+C++
+DHCP
+FLASH
+HTML
+Visual Studio
+jQuery
+TeamCity
+JIRA
+Scrum
+MS-SQL
+Javascript
+Cloud Computing
+Python
+Google Apps
+Javascript
+MySQL
+Google App Engine
+Google App Scripts
+Software Development
+Application Support
+Project Management
+ERP
+CRM
+Software Training
+Microsoft Products
+VLOOKUP
+Pivot Tables
+Financial Management
+Financial Analysis
+Financial Reporting
+SQL
+Salesforce Admin
+Database Management
+Data Mining
+SoftwareImplementation
+UNIX
+TCP
+TCP/IP
+C++
+TESTING
+Android
+c+
+Linux
+PHP
+Python
+Java
+Java
+networking
+aurdino
+manual testing
+NET
+ASP
+ASPNET
+C#
+Delphi
+L10N
+I18N
+Excel
+Java
+Matlab
+SQL
+R
+Python
+MASTER DATA MANAGEMENT
+MDM
+MySQL
+PHP
+WMS
+Arduino programming
+Android kernerl development
+debugging
+Apple appliation development
+JAVA
+PL/SQL
+SQL
+XML
+JAVASCRIPT
+ILLUSTRATION
+ILLUSTRATOR
+PHOTOSHOP
+FOXPRO
+SQL
+ASPNET
+Java
+Javascript
+JAVASCRIPT
+Reactjs
+Nodejs
+Expressjs
+Angularjs
+HTML 5
+CSS3
+SQL
+PostgresSQL
+MongoDB
+Mocha/Chai/Sinon
+Java
+C++
+FrontEnd:Javascript
+AngularJS
+BootstrapBackEnd:NodeJS
+SQL
+SQL
+HTML
+ASPNET Web Forms
+C#
+CSS
+Javascript
+JQuery
+ASPNET MVC
+C#
+Python
+Java
+C++
+SQL
+Powershell
+XML
+HTML
+CSS3
+NET
+ASPNET Web Forms
+ASPNET MVC
+WPF
+Entity Framework
+WCF Data Services
+Selenium WebDriver
+Bamboo
+Jenkins
+SVN
+Git
+MS SQL Server
+MySQL
+JIRA
+MySQL
+Linux
+JavaScript
+HTML/CSS
+C++
+C
+Java
+jQuery
+Python
+Django
+Matlab
+make
+Bash
+NET
+MS SQL SERVER
+SQL
+SQL Server
+Visual Studio
+C
+C++
+D
+Rust
+Git
+perfoce
+CVS
+Ruby
+CMake
+JAVA
+JUNIT
+STRUTS
+XML
+J2EE
+Python
+Java
+C
+Matlab
+Signal Processing
+Systems
+Scripting
+Data Analysis
+APEX
+JAVA
+NET
+ANDROID
+C++
+Linux
+MATLAB
+Subversion
+SVN
+VisualBasic
+NET
+AJAX
+ASP
+ASPNET
+MS ASP
+Apache
+COBOL
+DB2
+Eclipse
+JAVA
+Unix Administration
+Windows
+C++
+Java
+SQL
+VPN
+Network Administration
+Software Development
+Systems Integration
+System Administration
+Unix
+Vmware
+Secure Host Baseline
+ANGULARJS
+DJANGO
+APACHE CASSANDRA
+ASTERADATA
+B2B SOFTWARE
+NET
+C
+Python
+SQL
+C++
+C#
+Perforce Programming: C#/NET
+Python
+C/C++
+Verilog
+Java
+SQL
+JavaScript
+PHPSoftware: Visual Studio
+P4V
+MATLAB
+Quartus II
+Datagrip
+Pycharm
+NET
+Agile
+C#
+C++
+VbNet
+Selenium
+SQL
+C
+Java
+Python
+JIRA
+Git
+Testing
+IOS Development
+CoreML
+CoreData
+iOS MapKit
+iOS ARKit
+Programming
+Xcode
+Interface Builder
+UNIT TEST
+XML
+C++
+Java
+SQL
+Agile
+Kanban
+Scrum
+Git
+JIRA
+Eclipse
+VisualStudio
+JUnit
+Linux
+Windows
+Cadence
+DOS
+FreeBSD
+Linux
+optical
+JAVA
+LINUX
+UNIX
+NET
+CLEARCASE
+NET
+C#
+C
+CRM
+CUSTOMERRELATIONSHIP MANAGEMENT
+Java
+CSS
+HTML 5
+Javascript
+Information Technology
+Continuous Integration
+Quality Assurance
+DevOps
+Agile
+Ada
+Clipper
+COBOL
+Macola
+Magic
+PHP
+SQL
+USER INTERFACE
+AR
+CDN
+C#
+Net
+Application Development
+Authentication
+Database
+Microsoft Visual Studio
+ADA
+Android
+APACHE HADOOP MAPREDUCE
+OPEN GL
+OpenGL
+Machine Learning
+Java
+Python
+SQL
+Pascal
+Javascript
+HTML 5
+CSS3
+PHP
+JAVA
+ANGULARJS
+CSS
+HTML
+JAVASCRIPT
+NET
+ASP
+ASPNET
+C#
+HTML5 C#
+NET
+ASPNET  MVC
+SQL
+Oracle
+Entity  Framework
+LINQ
+HTML5
+CSS3
+JavaScript
+Nodejs
+Reactjs
+SASS
+MongoDB
+Meteorjs
+C++
+MFC
+XML
+NET
+JAVA
+NET
+C
+ClearCase
+Databases
+SQLDatabases
+Object Oriented programming
+Test Automation
+Unix
+Linux
+Windows
+Mac
+Jira
+Eclipse
+VisualStudio
+ClearCase
+MS Office
+Agile/Scrum methodologies
+CSS
+HP-UX
+HTML
+mentoring
+UNIX
+API
+HTML
+DATABASE
+ORACLE
+SQL
+PENTAHO
+EXCEL
+CICS
+COBOL
+Detail-oriented
+JCL
+VSAM
+C#
+AspNet
+SQL
+C++
+C++
+Linux
+Javascript
+Git
+SVN
+CVS
+Perl
+Python
+Java
+Hadoop
+C
+HP Exstream
+C++
+AspNet
+Oracle
+SQL
+HTML
+HTML 5
+Mainframe
+COBOL
+XML
+MySQL
+Windows
+Linux
+Javascript
+PL/SQL
+Mainframe
+RDBMS
+Ajax
+Python
+Android
+AWS
+Java
+Matlab
+MySQL
+Redis
+Python
+Team Leader
+Docker
+Swift
+Databases
+Data Analysis
+C
+Computer Security
+Java
+JavaScript
+security
+C
+C++
+Embedded Firmware
+Rails
+Ruby
+C+
+Java
+JavaScript
+Python
+SQL
+EMBEDDED C
+ALGORITHMS
+AUTOMOTIVE
+ANALYZER
+C++
+SQL
+NET
+Javascript
+SQL
+NET
+Javascript
+TESTING
+ASP
+ASPNET
+MS ASP
+MS SQL SERVER
+NET
+C#
+DATABASE
+DATABASE ENGINE
+DELPHI
+Android
+Blackberry
+Marketing
+MICROSOFT SHAREPOINT
+MS SQL SERVER
+C
+HTML
+Java
+JavaScript
+Python
+Adobe Illustrator
+ASPNet
+C#
+C#
+MVC
+HTML
+CSS3
+SQL
+Ajax
+Javascript
+XML
+JQuery
+JSON
+AspNet
+Bootstrap
+Adonet
+Linq
+Microsoft Test Manager
+Visual Studio
+DATABASE
+DATABASE DESIGN
+ORACLE
+SQL
+NET
+Java Programming
+C++
+C Programming
+Microsoft Office
+Data Structures
+Object Oriented Development
+Software Life Cycle Management
+SQL Server Reporting Services
+Visual Studio
+Oracle Database Administration
+Microsoft SQL Server
+Internet Information Services
+Windows and MacOperating Systems
+Relational Database Design
+Development
+and Administration (Oracle
+MySQL
+Microsoft SQL Server)
+PHP
+HTML
+Git and SVN Source Control
+ETL Datawarehousing
+OpenGL graphics programming
+Waterfallmethodology
+Agile Methodology
+C#
+AspNet MVC 4
+API
+AWS
+GIT
+REST
+SQL Languages Python
+Java
+C ++
+C
+ScalaFrameworks/Libraries Pandas
+Scrapy
+DjangoDatabases MongoDB
+Redis
+Elasticsearch
+Orientdb
+SQLTools Selenium
+Docker
+TorServices AWS EC2
+Rest APIIDE Pycharm
+Eclipse
+IntellijOperating Systems Linux
+Mac OSVersion Control GitMethodologies Agile
+Scrum
+core Java
+C/C++
+C#
+Optimization
+operations research
+Networking
+opticalnetwork
+Python
+Javascript
+HTML
+PHP
+GIT
+SVN
+Cloud
+data centernetworking
+SDN
+SQL
+Database Azure Cloud
+java
+javascript
+jquery
+JVM
+Redis
+C#
+C++
+C++
+LINUX
+MS SQL SERVER
+MySQL
+Java
+NET
+Nodejs
+Erlang
+Visual Studio
+Linux
+C++
+DATA MANAGEMENT
+JAVA
+JAVASCRIPT
+PYTHON
+XBase++
+OPENTEXT
+ACCESS
+CSS
+DATABASE
+DATABASE MANAGEMENT
+Html
+CSS
+JavaScriptDatabase Systems: Database management system
+MS-Access
+MySQLWorked with: OpenText Teamsite 81
+SQL Developer
+Eclipse Juno IDE
+WebSphere Administration
+FileNet P8 Administrator
+Windows 2008/2012
+RedHat Linux
+IIS
+Kofax Capture
+SQL 2008/2012
+MS Office products
+Power shell
+Project Coordination
+Customer Service
+DatabaseManagement
+Java
+Sharepoint administration
+Training
+ActiveDirectory
+Coldfusion
+C++
+MICROSOFT VISUAL STUDIO
+SQL
+JAVA
+C++
+Python
+Git
+Bookshelfjs/Knexjs
+Bootstrap
+Reactjs
+JavaScript
+Python
+HTML5
+CSS3
+Git
+AngularJS
+Nodejs
+Expressjs
+Backbonejs
+SQL
+MongoDB
+MySQL
+PostgreSQL
+Mongoose
+Redis
+Heroku
+AWS
+Webpack
+ES6
+SEO
+NET
+C#
+MS SQL SERVER
+SQL
+SQL SERVER
+INTERNET PROTOCOL SECURITY
+IPSEC
+Linux
+TCP
+TCP/IP
+C
+Javascript
+Java
+C#
+HTML
+CSS
+AngularJS
+Bootstrap
+JQuery
+Python
+NodeJS
+ReactJS
+SASS
+LESS
+Apache
+Linux
+MySQL
+openAM
+openDJ
+Ansible
+Git
+Software development
+escrow
+Git
+integration
+INTEGRATOR
+Maven
+NET
+JBoss
+JDBC
+PL/SQL
+SQL
+NET
+ASP
+C#
+C++
+CLEARCASE
+AJAX
+AngularJS
+Apache
+API
+Bash
+Predictive Analytics
+R
+SQL
+Excel
+PresentationSkills
+Agile
+Data Mining
+Tableau
+Big Data
+AzureML
+Sharepoint Designer
+Team Management
+ETL
+Azure
+Visual Studio
+PYTHON
+C++
+CSS
+HTML
+MYSQL
+Microsoft Office
+Microsoft Visual Studio
+Computer Hardware
+Windows
+NET
+C#
+SQL
+Javascript
+CSS3
+HTML 5
+JQuery
+Visual Studio
+MySQL
+Visual Basic
+WebDesign
+Social Media Marketing
+Accounting
+SEO
+NET
+ASP
+ASPNET
+C#
+CSS
+NET
+ADA
+C
+Java
+Python
+Windows
+Linux
+SQL
+Agile
+Git
+Subversion
+Java
+Multi-Threading
+Collections
+Javascript
+Angular JS
+Data Structures
+Algorithms
+Software Development
+Database Management
+Quality Assurance
+Management
+AWS
+JAVA
+Amazon Elastic Compute Cloud
+EC2
+JUNIT
+LINUX
+AWS
+DATABASE
+nginx
+REDIS
+Bootstrap
+C/C++
+CSS
+Javascript
+jQuery
+Java
+MySQL
+PHP
+Hacklang
+Golang
+Watson APIs
+MS SQL SERVER
+SQL
+SQL SERVER
+C#
+JAVASCRIPT
+Bugzilla
+CLP
+DB2
+HTML
+Visio
+Bash
+Java
+JavaScript
+scripting
+SNMP
+C
+C++
+HTML 5
+PostgresSQL
+Android
+J2EE
+Technical Support
+Linux
+C#
+NET
+ASPNET
+ASPNET Web API
+Web Services
+ADONET
+CSS3
+JavaScript
+JQuery
+Bootstrap
+JSON
+XML
+Silverlight
+Microsoft Visual Studio
+SVN
+Microsoft SQL Server
+Adobe Photoshop
+HTML5
+Adobe InDesign
+Adobe Acrobat
+Adobe Illustrator
+MVC
+Web Forms
+ASP
+ASPNET
+C#
+Python
+Visual Basic
+Load flowanalysis
+OpenDSS
+MVC
+Java
+NET
+XML
+Software Testing
+Data structures
+Automated testing (MSTest
+NUnit)
+ObjectOriented Programming
+RESTful web services
+Databases
+Unit testing
+SQL Database
+Database Development
+Java
+Object Oriented Design Patterns
+HTML 5
+CSS3
+Knowledgeof Object Oriented Principals
+Javascript
+Big O Notation
+UMLet
+JQuery
+Sass
+Responsive Web Design
+Mobile First Design
+AJAX
+WordPress
+Excellent Time Management Skills
+Strong Communication Skills
+Github
+Nodejs
+Hapijs
+MongoDB
+RESTful API
+Express
+Java Design Patterns and Algorithms
+Git
+Experience with Package Managers (npm
+Yarn
+Homebrew)
+advanced ms excel
+C++
+Python
+Java
+C
+Java
+Linux
+OOP
+TCP
+C#
+Perl
+C++
+Java
+Javascript
+JQuery
+C++
+HTML
+Scala
+Python
+AngularJS
+Big Data
+Hadoop
+MapReduce
+IBM OPTIM
+Db2
+Oracle
+SQL
+Microsoft Office
+Sybase
+Microsoft sql server
+Windows 7
+Linux
+Unix
+SQL
+TOMCAT
+MYSQL
+HTML5
+WEBLOGIC
+AWS
+data integration
+Java
+Python
+C#
+ASPNET
+MS SQL
+Python
+Windows IoT
+NET
+SQL
+ASP
+VBNET
+ASPNET
+C#
+WPF
+NET
+Languages: English - Fluent
+Russian  - Native
+Selenium
+Jenkins
+Maven
+Core Java
+Eclipse
+HTML
+XML
+Jira
+Websphere
+SQL
+Angular
+Java
+Javascript
+Web Development
+Amazon Web Services
+Databases
+JQuery
+Typescript
+Webpack
+Bootstrap
+Integration
+INTEGRATOR
+Java
+JSP
+MODEL VIEW CONTROLLER
+C#
+Javascript
+sql
+NET
+Agile Methodologies
+SCRUM
+Object Oriented Development
+Test Driven Development
+Kanban
+RUP
+NET
+APACHE HBASE
+ASP
+ASPNET
+BI
+NET
+Databases
+Excel
+HTML
+Java
+Java
+CSS
+HTML 5
+Javascript
+Information Technology
+Continuous Integration
+Quality Assurance
+DevOps
+Agile
+ASSEMBLY
+ENGINEER
+JAVA
+SOFTWARE ENGINEER
+API
+Javascript
+Java
+C#
+HTML
+CSS
+AngularJS
+Bootstrap
+JQuery
+Python
+NodeJS
+ReactJS
+SASS
+LESS
+Apache
+Linux
+MySQL
+openAM
+openDJ
+Ansible
+Git
+APACHE
+ASPNET
+CSS
+Excel
+HTML
+Bootstrap
+JQuery
+JSON
+Ajax
+Amazon Elastic Compute Cloud
+APACHE COUCHDB
+APACHE HADOOP HDFS
+APACHE HADOOP MAPREDUCE
+Microsoft Office
+C++
+Java
+PostgresSQL
+Python
+Ada
+Windows 7
+Windows 8
+Linux
+Visual Studio
+Eclipse
+Windows Server 2008R2
+C#
+SQL
+database
+JIRA
+oracle
+Splunk
+SQL
+C
+C+
+databases
+MongoDB
+SQL
+C#
+CSS/CSS3
+HTML/HTML5
+JAVASCRIPT
+AJAX
+BOOTSTRAP
+Mongo DB
+Expressjs
+Angularjs
+Nodejs
+REST Api
+AWS
+BI
+C
+CSS
+Python
+Python
+Java
+Databases
+Quality Assurance
+Linux
+C++
+Python
+Javascript
+Git
+System Administration
+Java
+Linux
+Web Development
+ARM
+Assembly
+C
+Linux
+Python
+ACCESS
+C#
+C++
+CSS
+PHP
+HTML
+HTML5
+backend
+Testing
+R&D
+Front end
+Amazon Web Services
+Java7
+Java8
+Spring
+Hibernate
+Rest Web Services
+Microservices
+PL/SQL
+HQL
+Ajax
+Javascript
+Eclipse
+Spring tool suite
+HTML
+J2EE
+JQuery
+JMS
+Spring AOP
+Spring Data
+Spring Social Media Integration
+Agile
+Tomcat
+JBoss
+Pivotal
+Soap
+JSTL
+PHP
+Amazon Elastic Compute Cloud
+AWS
+BASH
+C#
+Nodejs
+NET
+API
+C+
+java
+UDP
+AUTO CAD
+C
+C+
+CAD
+CATIA
+CSS
+Git
+HTML
+JAVASCRIPT
+PHP
+F#
+MySQL
+SQL
+NET
+Wordpress
+Angularjs
+C++
+C
+C
+calibration
+Matlab
+Software development
+STRUCTUREDSOFTWARE
+IOS
+C++
+C
+Objective C
+Swift
+Java
+Jmeter
+Selenium
+Appium
+Unit Testing
+AutomatedTesting
+PHP
+Database Development
+AngularJS
+Javascript
+Java
+Agile
+Scrum
+Project Planning
+Project Coordination
+Project Development
+SQL
+C/C++
+Storage
+C++
+ASSET MANAGEMENT
+C#
+DIGITAL MEDIA
+DIRECTX
+Apache
+Bootstrap
+Database
+J2ee
+Java
+Languages: C/C++
+C#
+Java
+MFC
+OpenGL
+MOTIF
+PERL
+XML
+HTML
+tcsh
+ksh ToolKits: Parasolid
+Datakit
+JT Open
+DirectModel
+TTF
+Open Inventor
+Performer
+VTK
+vrjuggler CAD: NX
+CATIA
+TeamCenter Visualization
+PROE Operating Systems: Android Studio
+Windows
+MACOS
+Linux
+AIX
+SunOS
+HP-UX IRIX
+NET
+algorithm
+C+
+Data Structures
+SQL
+REST
+SOAP
+HTML
+XML
+CSS
+Java
+Javascript
+Git
+SVN
+Tomcat
+SQL
+XSLT
+Javascript
+Nodejs
+NET
+Python
+Wordpress
+HTML
+CSS3
+Drupal
+PHP
+NET
+APACHE HBASE
+ASP
+ASPNET
+BI
+C
+C+
+Crystal Reports
+Java
+Android
+c+
+Linux
+PHP
+Python
+Java
+B2B SOFTWARE
+Database
+Database Systems
+Embedded Systems
+Materials Science
+Java
+C#
+C++
+C
+Python
+Assembly
+HTML
+CSS
+Javascript
+AngularJS
+ASPNET MVC
+Microsoft TFS
+Visual Studio
+Selenium
+Unix/Linux
+C++
+Java
+C#
+AspNet
+NET
+Javascript
+HTML
+HTML 5
+SVN
+Git
+Mercurial
+Redis
+Rabbit MQ
+Angular
+JAVA
+JUNIT
+TESTING
+MODEL VIEW CONTROLLER
+MODEL-VIEW-CONTROLLER
+NET
+Bootstrap
+C#
+CSS
+oracle
+C++
+NET
+C#
+VISUAL STUDIO
+LINUX
+BASH
+C
+CSS
+Django
+GIT  C
+C++
+Python
+BASH
+HTML
+CSS
+JavaScript
+React
+JQuery
+Django REST Framework
+SQL  Amazon Web Services
+Unix/Linux
+GIT
+Vim
+Make
+Atlassian Tool Suite
+Jenkins
+Ansible
+Docker
+TDD
+MICROSOFT OFFICE
+MS OFFICE
+OFFICE SKILLS
+AWS
+C++
+PYTHON
+C#
+Git
+PERL
+SQL
+XML
+MS SQL SERVER
+SQL SERVER
+ClearCase
+ClearQuest
+UNIX
+C#
+C++
+Visual Basic
+Windows
+Maintenance Programming
+ADA
+C++
+PVCS
+PASCAL
+OPEN GL
+CSS
+HTML
+JavaScript
+Ruby Web-based software engineering
+C++
+PYTHON
+ROBOT
+BASH
+FRAMEWORKS
+JavaScript
+SQL
+Microsoft Office
+Microsoft Visual Studio
+Computer Hardware
+Windows
+NET
+C#
+SQL
+Javascript
+CSS3
+HTML 5
+JQuery
+Visual Studio
+MySQL
+Visual Basic
+WebDesign
+Social Media Marketing
+Accounting
+SEO
+Java
+Javascript
+C++
+XML
+AngularJS
+Hibernate
+Spring
+Eclipse
+C#
+NET
+Mac OS X
+Windows 7
+Linux
+Embedded Linux
+C
+Visual Studio
+VHDL
+Agile
+Waterfall
+Scrum
+Team FoundationServer
+Self Learning
+Effective Speaker
+Experienced in multidisciplinary groups
+Matlab
+Peer Programming
+Android
+HTTP/REST
+Linux
+Mac OS X
+Mobile
+MySQL
+Git
+Software Development
+Data Analysis
+TypeScript
+Java
+C++
+Rust
+Swift
+Elixir
+Google App Engine
+Google Datastore
+Software Development
+STRUCTURED SOFTWARE
+C
+C+
+databases
+MongoDB
+SQL
+C#
+C++
+Java
+C#
+AspNet
+NET
+Javascript
+HTML
+HTML 5
+SVN
+Git
+Mercurial
+Redis
+Rabbit MQ
+Angular
+C++
+Python
+Matlab
+SQL
+Oracle
+SQLite
+Python
+Java
+SQL
+Hadoop
+Android
+MapR
+Javascript
+SQL
+HTML
+ASPNET Web Forms
+C#
+CSS
+Javascript
+JQuery
+ASPNET MVC
+C#
+Java
+Javascript
+Web Services
+Databases
+Java
+MySQL
+Clearcase
+JIRA
+JavaFX
+C++
+Eclipse
+ASP
+ASPNet
+MS SQL Server
+SQL
+SQL server
+aspnetmvc
+C#Net
+JQuery
+TESTING
+PROCESS DOCUMENTATION
+PROJECT PLANNING
+C#
+Unity
+CSS
+HTML
+JAVASCRIPT
+NET
+ADO
+Nodejs
+React
+Expressjs
+MySQL
+MongoDB
+Apache Kafka
+ASP
+ASPNET
+C#
+CSS
+JavaScript
+web api
+Wcf
+Web Services
+JQuery
+Ajax
+SQL
+Java
+MySQL
+SQL
+hibernate
+unix
+Git
+codecloud
+Rest web services
+soap ui
+spring
+BOOTSTRAP
+DATABASE
+FRONT END
+HTML5
+JAVA
+C++
+Python
+C#
+ASPNet
+Java
+MS SQL
+SAP ABAP
+ECC
+CRM
+SD
+BAPIs
+RFCs
+Interface
+Workflow
+Java
+Javascript
+React
+React Native
+Android
+Spring
+Redux
+Docker
+Kubernetes
+ARM
+Assembly
+C
+Linux
+Python
+Information Processing
+Object Oriented Programming
+Visual Studio (C#
+Java
+ASPNET)
+Introduction to Java
+Web Design
+C#
+MODEL-VIEW-VIEWMODEL
+MVVM
+WINDOWS PRESENTATIONFOUNDATION
+WPF
+Xamarin
+AngularJs
+C#
+MODEL-VIEW-VIEWMODEL
+MVVM
+WINDOWS PRESENTATIONFOUNDATION
+WPF
+Xamarin
+AngularJs
+Backbone
+C
+Rails
+Ruby
+software development
+C#
+Java
+Python
+SQL
+C#
+Java
+Python
+SQL
+DATA SCIENCE
+C++
+JAVA
+MYSQL
+PYTHON
+DATA SCIENCE
+C++
+JAVA
+MYSQL
+PYTHON
+AngularJS
+Bootstrap
+C
+CSS
+Django
+Subversion
+UNIX
+CLEARCASE
+CVS
+LINUX
+LINUX
+ABAQUS
+ACCESS
+ADA
+AUTOCAD
+Java
+Perl
+TCL/TK
+Matlab - Simulink
+C
+Software Development
+Quality Assurance
+Testing
+AngularJS
+CSS
+Eclipse
+HTML
+J2EE
+Java
+XML
+JDBC
+Hibernate
+JSON Languages: Java
+SQL
+XML
+JDBC
+JSON
+SQL
+HTML
+CSS
+J2EE
+Javascript
+AngularJS
+and HibernateTools: SVN
+JIRA
+Eclipse
+Junit
+Maven
+SalesforceOperating Systems: Windows
+Linux
+Solaris
+PYTHON
+JAVA
+CLOJURE
+FRAMEWORKS
+C#
+UNITY 3D
+C++
+NET
+FRAMEWORKS Languages and Frameworks: C#
+C/C++
+XML
+NET FrameworkPrograms: Unity 3D
+Perforce
+CodeCollab
+Visual Studio
+Beyond Compare
+Confluence
+JIRA
+MS SQL SERVER
+SQL
+SQL SERVER
+NET
+DATABASE
+HTML
+CSS
+C
+C#
+Visual Studio 2013
+T-SQL
+ADOBE PHOTOSHOP
+ANDROID
+AUDIO VISUAL
+CISCO
+CSS
+ARM
+coding
+CSS
+DECISION SUPPORT PANEL
+DSP
+Java
+C++
+Javascript
+Java ServerFaces
+Ruby on Rails
+SQL
+C++
+JAVA
+ALGORITHM
+C#
+Git
+Javascript
+NodeJS
+HTML 5
+CSS3
+Data Visualization
+PostgresSQL
+Unity3D
+VR/AR Development
+GitHub
+BitBucket
+Command Line
+Python
+Object-Oriented Programming
+Data Structures &Algorithms
+Agile Web Development: JavaScript
+HTML5
+CSS3
+JQuery
+D3
+VideoJS
+NodeJS
+Express
+PostgreSQL
+MongoDB
+HerokuVR & Game Development: C#
+Unity Game Engine
+Oculus Rift
+Go Map
+Merge CubeTools: Git
+GitHub
+BitBucket
+Command Line
+Postman
+BootstapGeneral Software Engineering: Java
+Python
+C++Knowledge: Object-oriented Programming
+Data Structures & Algorithm
+Agile Methodology
+ECMAScript 6
+ARM
+coding
+CSS
+DECISION SUPPORT PANEL
+DSP
+MYSQL
+UNITY 3D
+LINUX
+PERFORMANCE TUNING
+ADA
+C++
+CSS
+Java
+Javascript
+PHP
+HTML 5
+Bootstrap
+SQL
+NET
+C#
+VISUAL STUDIO
+JAVA
+C++
+Software Development
+Java
+C#
+Spring
+Hibernate
+NET
+SQL
+Entity Framework
+REST
+Git
+Javascript
+HTML 5
+CSS
+Bootstrap
+Agile
+Big Data
+SQL
+BLUETOOTH
+IOS
+IOS SDK
+IPHONE
+C++
+Java
+Spring Boot
+Nodejs
+Project Management
+Project Planning
+Risk Management
+Configuration Management
+Javascript
+JQuery
+JSON
+Web Development
+Scrum
+Git
+Assembly
+CSS
+High Level Design
+Design Patterns
+Spring Hibernate
+React
+SQL
+Linux
+Enterprise Architecture
+ShellScripting
+MVC
+Agile
+Restfull Web Service
+Google API
+High Level Design
+Detail Design
+XML
+O3W
+MicroService
+C#
+HTML5
+COBOL
+Jsp
+Web Application
+SpringMVC
+Web Services
+MongoDB
+Microsoft Project Plan
+Hadoop
+Spark
+Scala
+C++
+Java
+Spring Boot
+Nodejs
+Project Management
+Project Planning
+Risk Management
+Configuration Management
+Javascript
+JQuery
+JSON
+Web Development
+Scrum
+Git
+Assembly
+CSS
+High Level Design
+Design Patterns
+Spring Hibernate
+React
+SQL
+Linux
+Enterprise Architecture
+ShellScripting
+MVC
+Agile
+Restfull Web Service
+Google API
+High Level Design
+Detail Design
+XML
+O3W
+MicroService
+C#
+HTML5
+COBOL
+Jsp
+Web Application
+SpringMVC
+Web Services
+MongoDB
+Microsoft Project Plan
+Hadoop
+Spark
+Scala
+Mainframe
+C
+design patterns
+Linux
+MAC
+MacOs
+Java
+Spring MVC
+Hibernate
+RESTful
+AJAX
+JQuery
+Javascript
+CSS3
+Bootstrap
+Oracle
+My-SQL
+PostgresSQL
+AMAZON DYNAMODB
+APACHE SOLR
+ASCII
+C+
+CSS
+ASPNET
+C#
+CSS
+Javascript
+SQL
+HTML 5
+Web API
+JQuery
+SSRS
+WPF
+bioinformatics
+Matlab
+Microsoft Office
+MS OFFICE
+Time Management
+jQuery
+C++
+CSS
+DATABASE
+ECLIPSE
+ASP
+ASPNET
+C#
+MS ASP
+MODEL VIEW CONTROLLER
+ASP
+ASPNET
+AXAPTA
+CRM
+CUSTOMER RELATIONSHIPMANAGEMENT
+Amazon Elastic Compute Cloud
+EC2
+PYTHON
+VMWARE
+AmazonEC2
+NET
+C#
+SQL
+WINDOWS PRESENTATION FOUNDATION
+WPF
+AspNet
+Javascript
+C++
+LINUX
+MS SQL SERVER
+MySQL
+Java
+NET
+Nodejs
+Erlang
+Visual Studio
+Linux
+C+
+HTTP
+Linux
+C
+Python
+Javascript
+u-boot
+Matlab
+Python
+MySQL
+Java
+Data Mining
+Data acquisition
+Data Analysis
+documentation
+Labview
+MicrosoftOffice
+Ajax
+C
+C++
+Java
+Javascript
+HTML
+HTML 5
+CSS3
+Python
+PHP
+Hadoop
+HDFS
+Map Reduce
+JQuery
+Apache Pig
+HIVE
+Web Services
+Soap
+REST
+MySQL
+SQL
+Oracle
+MongoDB
+ASSEMBLY
+ENGINEER
+JAVA
+SOFTWARE ENGINEER
+API
+Visual Studio
+Crystal Reports
+Delphi
+Visual Basic
+MicrosoftSQL Server
+Microsoft Office
+Web Development
+ItProject Management
+Hardware
+Unix Administration
+Linux
+C#
+HTML
+JAVA
+TESTING
+APPLICATION DEVELOPMENT
+APPLICATION TESTING
+C+
+CICS
+COBOL
+REXX
+Visio
+C
+J2EE
+JAX
+JAX-WS
+SQL
+ANDROID
+C#
+NETWORKING
+SQL
+NET
+Architecture
+MS SQL SERVER
+optimization
+Oracle
+SQL
+PowerBuilder
+SQL
+Sybase
+SQL Server
+Oracle
+C++
+DATA ANALYSIS
+DATA WAREHOUSING
+EXCEL
+Git
+Acceptance Testing
+AJAX
+database
+Jquery
+Testing
+NET
+ASP
+ASPNET
+JavaScript
+MS ASP
+DATABASE
+ORACLE
+ORACLE FORMS
+PL/SQL
+SQL
+Javascript
+Java
+AJAX
+BOOTSTRAP
+HTML5
+JAVASCRIPT
+JSON
+VISUAL BASIC
+JAVA
+C#
+C++
+CSS
+HTML5
+JAVASCRIPT - Software Skills: C#
+Java
+WPF
+C
+Swift
+Python
+C++
+Scheme
+HTML5
+SQL
+MATLAB/Simulink
+XAML
+MVVM
+XamarinIOS development
+NET
+JavaScript
+CSS- Hardware Skills: Multisim
+Ultiboard
+LabView
+PSPICE
+HSPICE
+NET
+ANDROID
+ASP
+BOOTSTRAP
+C#
+C++
+COBOL
+CA-Ideal
+Systems Analysis
+Web Development
+DB2 Relational Database
+Datacom Relational Database
+Python
+JAVA
+SOAP
+Subversion
+SVN
+ECLIPSE
+JavaScript
+SOAP
+Agile
+WebLogic
+C++
+Team Management
+Linux
+Eclipse
+Databases
+E-BUSINESS
+ORACLE
+SQL
+ANDROID
+C++ Languages: SQL/PLSQL
+C
+C++
+Java
+HTML
+CSS
+XML
+Javascript
+Visual BasicApplications: Oracle E-Business R12
+Microsoft Office
+Sketch
+Invision
+Adobe XDOperating Systems: Windows
+Linux
+Android
+iOS
+CISCO
+C++
+DATA STRUCTURES
+DATABASE
+ECLIPSE
+Database
+Database systems
+J2EE
+Java
+testing
+Languages: C#/ VBNET
+C++
+HTML
+XML
+SQL
+Programs: MS Access
+MS Word
+MS Excel
+MS Outlook
+Crystal Reports
+MS Internet Explorer
+Netscape Navigator
+Norton Utilities
+Operating Systems: MSWindows XP
+Vista
+7
+8
+81
+10
+Environment: Visual Studio
+Ethernet
+HMI
+Human Machine Interface
+SCADA
+Wonderware
+DDC
+VBA
+Microsoft Visio
+iFix
+Citect
+Modbus
+Fix32
+Microsoft
+RedLion HMI
+Preferred Utilities OIT
+Factory Talk Panelview
+RSView32
+WinCC
+WinCCFlex
+Siemens
+Allen Bradley
+Modicon
+Preferred Utilities PCCIII
+Preferred Utilities PWC
+OSIsoft PI Suite
+Autocad
+PCCIII Draw
+C
+C++
+ASPNET
+C#
+WINFORMS
+JAVA-J2EE
+SPRING
+SQL
+ORACLE
+WEB SERVICES
+WCF
+REST
+ENSEMBLE
+EGATE
+BIZTALK
+SSIS
+SSRS
+AWS REDSHIFT
+Tableau
+JQUERY
+JAVASCRIPT
+ANGULAR JS
+Java
+Agile Development
+SOAP
+REST
+Object Oriented Analysis& Design
+Micro services Architecture
+NoSQL (ElastiSearch
+Redis)
+Javascript
+Spring
+databases
+iOS
+MICROSOFT ACCESS
+MS Access
+Red Brick
+Microsoft office 365 certified
+Communication skills
+Able to multitask
+Prioritizing
+Timemanagement
+Dependability
+Teamwork
+Initiative and problem-solving abilities
+Very good with computers
+Software Development
+Computer Hardware
+Cisco serving configuring
+POS Installments
+KMX Installment
+Networking
+Network Administration
+Citrix
+Data Entry
+Database Management
+Documentation
+DataAnalysis
+Project Management
+Net
+application development
+Java
+MODEL VIEW CONTROLLER
+python
+C++
+LINUX
+C#
+Agile
+Python
+INTEGRATION
+INTEGRATOR
+JAVA
+MODEL VIEW CONTROLLER
+MODEL-VIEW-CONTROLLER
+XML
+PHP
+MySQL
+Java
+HTML
+JavaScript
+CSS
+Subversion
+SQL
+Perl
+C++
+E-commerce Solutions
+Web Services
+Web Applications
+SOAP
+application design
+implement and maintain
+e-commercesolutions
+database management and operations
+file system and network administration
+Java
+PHP
+SQL
+MySQL
+JavaScript
+XML
+HTML
+CSS
+Perl
+C/C++
+SVN
+MYSQL
+DATABASE
+Subversion
+SVN
+Git
+Microsoft office 365 certified
+Communication skills
+Able to multitask
+Prioritizing
+Timemanagement
+Dependability
+Teamwork
+Initiative and problem-solving abilities
+Very good with computers
+Software Development
+Computer Hardware
+Cisco serving configuring
+POS Installments
+KMX Installment
+Networking
+Network Administration
+Citrix
+Data Entry
+Database Management
+Documentation
+DataAnalysis
+Project Management
+Net
+application development
+Java
+MODEL VIEW CONTROLLER
+python
+C++
+JAVA
+TESTING
+DOS
+AWS
+Net
+AngularJS
+ASP
+ASPNet
+C
+JAVA
+JUNIT
+ORACLE
+JSP
+STRUTS
+C/C++ on Windows and Linux/Unix
+OOD
+Objective-C
+iOS
+Algorithms
+Java
+Android
+Networks
+HTTP
+
+C#
+C++
+Java
+Management
+Microsoft Stack
+Net
+ASP
+Architecture
+git
+MySQL Cluster DBA
+Percona Cluster DBA
+MySQL
+Perl
+Percona Xtradb Cluster
+Linux
+Python
+bash
+Cassandra
+Chef
+Puppet
+Ruby
+git
+MySQL Cluster DBA
+Percona Cluster DBA
+MySQL
+Perl
+Percona Xtradb Cluster
+Linux
+Python
+bash
+Cassandra
+Chef
+Puppet
+Ruby
+AWS
+Git
+Java
+JSP
+MySQL
+Spring
+SpringBoot
+AJAX
+AWS
+Citrix
+GCP
+Jira
+HTML
+JAVA
+TESTING
+APPLICATION DEVELOPMENT
+APPLICATION TESTING
+HTML
+JAVA
+TESTING
+APPLICATION DEVELOPMENT
+APPLICATION TESTING
+C#
+NET
+EXCEL
+VISUAL STUDIO
+WINDOWSPRESENTATION FOUNDATION
+Java
+Javascript
+JQuery
+Groovy
+Grails
+Bootstrap
+HTML
+CSS
+Oracle SQL
+Net
+ASPNet
+Springs andHibernate
+Java
+Javascript
+JQuery
+Groovy
+Grails
+Bootstrap
+HTML
+CSS
+Oracle SQL
+Net
+ASPNet
+Springs andHibernate
+SQL
+C#
+NET
+DATABASE
+ASP
+Java
+SQL
+Scrum
+HTML 5
+Javascript
+Google Analytics
+Web Services
+Git
+Eclipse
+Tomcat
+Google Webmaster Tools
+Enterprise Architecture
+Ajax
+Project Management
+Application Development
+Agile
+J2EE
+JQuery
+Software Development
+SoftwareDesign Patterns
+Google App Engine
+JDO
+Google Cloud Storage
+CRM
+Memcached
+PostgresSQL
+Lucene
+Search Engine Optimization
+Object Oriented Design
+Object Oriented Programming
+RDBMS
+SDLC
+Strategic Planning
+Technical Support
+Customer Service
+Cross-Functional Team Leadership
+Business Analysis
+Business Development
+Business Process Improvement
+Requirements Analysis
+Requirements Gathering
+Java
+SQL
+Scrum
+HTML 5
+Javascript
+Google Analytics
+Web Services
+Git
+Eclipse
+Tomcat
+Google Webmaster Tools
+Enterprise Architecture
+Ajax
+Project Management
+Application Development
+Agile
+J2EE
+JQuery
+Software Development
+SoftwareDesign Patterns
+Google App Engine
+JDO
+Google Cloud Storage
+CRM
+Memcached
+PostgresSQL
+Lucene
+Search Engine Optimization
+Object Oriented Design
+Object Oriented Programming
+RDBMS
+SDLC
+Strategic Planning
+Technical Support
+Customer Service
+Cross-Functional Team Leadership
+Business Analysis
+Business Development
+Business Process Improvement
+Requirements Analysis
+Requirements Gathering
+CLEAR CASE
+ECLIPSE
+JAVA
+LINUX
+RATIONAL
+Azure
+C#
+Javascript
+JQuery
+Bootstrap
+SQL
+AspNet
+Project Management
+CSS
+IoT
+Visual Studio
+Photoshop
+Hadoop
+Big Data
+RESTful API
+SEO
+WIRELESS
+Git
+WIRESHARK
+MATLAB
+TELECOM
+C
+Documentation
+Linux
+Leadership Development
+Matlab
+Networking
+Quality Assurance
+Research
+3GPP
+OFDM
+MIMO
+LTE
+WLAN Wi-Fi
+Telecommunications
+Windows XP/VISTA/7/8
+LINUX- RHEL
+Ubuntu
+: X-Code
+Wireshark
+Git
+Matlab/Simulink
+Quartus II
+Xilinx ISE
+Cadence IncisiveSimulator
+MSOffice
+RAN
+SoC
+Verilog
+Python
+Wireless Communications
+Mobile Wireless Networks
+Digital Signal Processing
+Optimization Techniques
+Channel Coding for Communication
+CommunicationTheory
+RF
+Microprocessor System Design
+eMBMS
+Massive MIMO
+5G
+Labview
+Verification
+Testing
+Quality Analyst
+Analysing
+Debugging
+Support
+Git
+JIRA
+Agile
+Scrum
+Teamwork
+Team Leader
+IEEE 80211
+ASIC
+Communication Skills
+TCP/IP
+SIP

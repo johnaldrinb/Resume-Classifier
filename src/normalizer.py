@@ -2,7 +2,7 @@ class Normalizer:
 
     def get_skill_index(self, skill_description):
 
-        filename = 'data/skills.txt'
+        filename = 'data/skills_list_uniques.txt'
         file = open(filename, 'r')
         index = 0
 
@@ -10,7 +10,7 @@ class Normalizer:
 
         for skill in skills:
             skill = skill.upper()
-            print(skill)
+            #print(skill)
 
         return skills.index(skill_description.upper())
 
@@ -18,20 +18,17 @@ class Normalizer:
 if __name__ == '__main__':
     normalizer = Normalizer()
 
-    job = 'skillsWeb'
-    #filename = 'data/' + job + '.txt'
-    filename = 'skills_list.txt'
+    job = 'skillsSoftDev'
+    filename = 'data/' + job + '.txt'
     file = open(filename, 'r')
 
     skills = file.readlines()
     skills_indexes = [None]
 
-    skills_set = list(set(skills))
-
-    for skill in skills_set:
-        out = open('skills_list_uniques.txt', 'a')
-
-        #skills_indexes.append(skill)
-        out.write(skill.upper())
+    for skill in skills:
+        # skills_indexes.append(normalizer.get_skill_index(skill))
+        out = open('data/' + job + '_index.txt', 'a')
+        out.write(str(normalizer.get_skill_index(skill)))
+        out.write('\n')
         out.close()
-        #skills_indexes.append(normalizer.get_skill_index(skill))
+

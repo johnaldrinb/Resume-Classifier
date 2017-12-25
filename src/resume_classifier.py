@@ -14,7 +14,7 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_sample1.h5'
         self._model = None
 
         if os.path.isfile(self._MODEL_FILE):
@@ -27,13 +27,13 @@ class ResumeClassifier:
     def __init_model(self):
         # initialize model configuration
         self._model = Sequential()
-        self._model.add(Dense(150, activation='relu', input_dim=50))
+        self._model.add(Dense(150, activation='relu', input_dim=100))
         self._model.add(Dropout(0.5))
-        self._model.add(Dense(75, activation='relu'))
+        self._model.add(Dense(150, activation='relu'))
         self._model.add(Dropout(0.5))
-        self._model.add(Dense(5, activation='softmax'))
+        self._model.add(Dense(4, activation='softmax'))
 
-        sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
+        # sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
         self._model.compile(loss='categorical_crossentropy',
                       optimizer=sgd,
                       metrics=['accuracy'])
@@ -49,18 +49,32 @@ class ResumeClassifier:
     def train(self):
         # train the neural network
         # temp training data
-        x_train = np.random.random((1000, 50))
-        y_train = keras.utils.to_categorical(
-            np.random.randint(5, size=(1000, 1)), num_classes=5)
-        x_test = np.random.random((100, 50))
-        y_test = keras.utils.to_categorical(
-            np.random.randint(5, size=(100, 1)), num_classes=5)
-        x_input = np.random.random((1, 50))
+        training_set = np.loadtxt('data/training_set.csv', delimiter=',')
+
+        x_train = training_set[:,0:100]
+        y_train = training_set[:][:,100]
+
+        print(y_train)
+        print(len(y_train))
+
+        for i in y_train:
+            print(i)
+
+        y_train_np = keras.utils.to_categorical(y_train, num_classes=4)
+        # y_train = keras.utils.to_categorical(
+        #     np.random.randint(5, size=(1000, 1)), num_classes=5)
+        # x_train = np.random.random((1000, 50))
+        # y_train = keras.utils.to_categorical(
+        #     np.random.randint(5, size=(1000, 1)), num_classes=5)
+        # x_test = np.random.random((100, 50))
+        # y_test = keras.utils.to_categorical(
+        #     np.random.randint(5, size=(100, 1)), num_classes=5)
+        # x_input = np.random.random((1, 50))
 
         self._model.fit(x_train,
-                  y_train,
-                  epochs=150,
-                  batch_size=10)
+                  y_train_np,
+                  epochs=300,
+                  batch_size=100)
         self.__save_model()
         #score = model.evaluate(x_test, y_test, batch_size=10)
 
@@ -68,5 +82,6 @@ class ResumeClassifier:
         # classify input
         # arguments: inputs - array of input
         # must return array of probabilities
-        model.predict(inputs)
+        outputs = self._model.predict(inputs)
+        print(outputs)
         

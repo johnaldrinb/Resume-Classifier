@@ -1,7 +1,7 @@
 Java
 J2EE
 SOA
-Web service
+Web services
 REST
 C# dotNet
 Python

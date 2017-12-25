@@ -1,0 +1,3116 @@
+Colaboration with cross functional Teams
+Micro services Architecture
+Crystal Reports
+TELECOM
+J2ee
+Microix
+8
+firmware
+Network Technician
+CASSANDRA
+CODA
+PROBLEM SOLVER
+Outlook VBA
+MASTER DATA MANAGEMENT
+productioncontrol
+backups
+PythonTools & Technologies: Git
+Apache Flume
+National InformationExchange Model
+PostgresSQL
+Erlang
+Microsoft word
+Clearcase/Clearquest
+Telco/Lan Cable Installation
+TOAD
+Tableau
+FileNet P8 Administrator
+AWS Developer
+Operating System Imaging
+Envision Basic
+Introduction to Java
+Historical Research
+EasyTrieve
+Command line
+DATAFLEX
+JQUERY
+System Analyst
+Windows
+MACHINE LEARNING
+graphic design
+Grunt js
+Subversion
+web api
+Build tools & utilities(Npm
+Frameworks
+HTML/XHTML
+MS Outlook
+Grails
+Wireframing and Prototyping
+QUALITY ASSURANCE
+SAPBusiness Objects
+CL
+APIs
+AdobeEdge Animate
+Strong Numeracy Skills
+Metadata Management
+Windows Mobile
+RESTful WebServices
+MAINFRAME
+FinancialAnalysis
+Factory
+Test Scripting
+Certification
+ILLUSTRATION
+Google Adwords
+ENDEVOR
+TTF
+BUYING/PROCUREMENT
+Hyperion Essbase
+Operating System: Windows
+OperatingSystems
+MailChimp
+Lua
+Database Azure Cloud
+Curl
+Consultative Selling
+bash
+Systems Administration
+TYPING
+Technical Writing
+CLONING
+Telecom
+Online Inventory
+AWS ELB
+React
+CLEARQUEST
+Wireshark
+Appium
+Google GoLang
+ConcourseCli
+STRUCTURED SOFTWARE
+Social Media Marketing
+AWS
+Relational Data Modeling (Conceptual
+metric generation
+MS Visio
+Layout Design
+DATA ANALYTICS
+TSO
+JTAG
+reactjs
+RESTFUL WEBSERVICES
+Java/J2ee
+JES2/JES3
+auditing
+Embedded Firmware
+Networking
+MVVM
+ORACLE 10G
+DirectModel
+SATCOM
+Shell Script
+USER ACCEPTANCE
+VBA
+Data migration
+Autosys
+RTOS
+Languages: C/C++
+Adobe Flash
+123 WPM
+FDA
+Detailed Oriented
+Java 8
+Vagrant
+ARM
+Syncsort
+BUSINESS RELATIONSHIP MANAGEMENT
+integration testing
+ECM and Case Management
+ITInfrastructure
+TCP/IP
+Windows Server 2008
+Photoshop
+Mocking Bot
+soap ui
+Emberjs
+WIRESHARK
+RDS
+HTML5/CSS3(Bootstrap
+Life Cycle
+MS PowerPoint
+C++ Languages: SQL/PLSQL
+GeoPackage
+Go Map
+Midas
+CLERICAL
+Data Cleansing
+AccessContent Management Systems: Alfresco
+HTML l Relational Databases
+CSS2/3
+2005
+HL7
+OpenGL graphics programming
+Agile Management
+MICROSOFT OUTLOOK
+DESIGN DOCUMENTATION
+DELTEK
+Scheme
+MakeFrameworks: Spring
+Configure/Price/Quote
+ReactNative
+MS ACCESS
+Dreamweaver
+JAVASCRIPT
+logistics
+Bilingual
+Timemanagement
+Microsoft Operating Systems
+ProductionWorkflows
+UC4
+JSF
+Tele-Tracker
+IT SUPPORT
+AutoCAD
+AGILE
+Linux command line
+APTTUS CQP Power USer
+MODEL-VIEW-CONTROLLER
+Needs Analysis
+pyth
+css
+Selenium Automation Testing
+SQl Server
+PROCESS DOCUMENTATION
+Facade
+StrongView
+Adobe Acrobat
+jQuery
+Windows Server 2016
+Amazon ElasticCompute Cloud
+FRONT ENDDESIGN
+ETL
+Spring MVC
+Rabbit MQ
+Maven
+ADO Net Entity Framework
+Computer Hardware/Software Support
+System Management
+Radiology
+5G
+Capsule
+Interior Trim
+PERL
+B2B SOFTWARE
+AspNet Web forms
+Babel ES6
+Relationship Management
+Arcgis
+CATIA
+PHP HTML
+Splunk
+Flight control and simulation
+software development
+Genetic Programming
+React / Redux
+ColdFusion
+ActiveMQ
+Cisco UCS
+KMX Installment
+Languages: C#/ VBNET
+WAN
+ThermoSpec
+AIX
+Automation Testing
+AUTHENTICATION
+JD Edwards
+VLOOKUP
+Sqoop
+optical
+PVCS
+HealthPromotion
+JSX
+Information Technology
+SoftwareTesting
+TRAINING
+nodejs
+Restful Web services
+AUDIO VISUAL
+Operating Systems: MSWindows XP
+Oracle BPEL
+Cloud Storage
+PowerBuilder
+Windows Platform
+Materials Management
+UDig
+LIMS
+Web Scrapping
+HP Quality Center
+WebPack
+NoSQL (ElastiSearch
+Webpack
+Visual Basic 6
+SAP Software
+Pro Tools
+Hiring
+Loan Closing
+google tagmanager
+Responsive Web Design
+sof
+CONFIDENT
+IDL
+Switches
+ICD9
+SOFTWARE DEVELOPMENT
+AWS DynamoDB
+DATASTAGE
+GoogleAnalytics
+CREDIT CARD
+Synergy)
+CAD
+Continuous Integration
+JavaScriptDatabase Systems: Database management system
+TALENTDEVELOPMENT
+WINDOWSPRESENTATION FOUNDATION
+SharePoint
+Health Information Management
+HP Openview
+Agile/Scrum methodology
+Dependable
+Version Control
+SSRS
+Fast Learner
+NodeJs
+Visual BasicTools/Technologies - Eclipse
+Adobe PhotoShop
+CDN
+AS/400
+Tensor Flow
+JSON Languages: Java
+SourceGear Vault
+ElasticSearch
+Data Structures and Algorithms
+Filing
+HTML/HTML5
+Oracle Customer Care & Billing
+Source Control
+Microsoft PowerPoint
+Cloud Services
+Net WinForms
+Percona Cluster DBA
+Scripting
+Adobe Lightroom
+Databases: Oracle
+Documentation
+Soap
+JIRA
+Logical
+SQL server
+Microsoft Suite
+Self-starter
+object-oriented
+Data Governance
+45
+gitHub
+Spanish fluency
+Foundation
+ReactJS)
+HTML5Juan L Middle Tier: C#
+Racket
+Netscape Navigator
+DJANGO
+SSAS
+Molecular Biology
+Soap & Restful web services
+Team Management
+hlpsystm
+Visual Basic
+WinForm
+Winforms
+RapidMiner
+50 wpm
+database development
+illustration
+Selenium WebDriver
+508 compliance
+FRONT END
+SUBJECT MATTER EXPERT
+Adobe
+Ubuntu
+Polarion
+ActiveDirectory
+Google Apps
+algorithms
+Systems
+Compliance
+FTP
+Scrum principles
+VMware Horizon
+responsive web design
+AspectDialer
+Windows Server 2012
+WordPress
+Rest Web Services
+MVC Framework
+AdSense
+BUSINESS INTELLIGENCE
+CHANGEMANAGEMENT
+Business requirements
+LinuxIDE Tools: Eclipse
+Front end web development
+Business Objects
+Mac OS X
+Filezilla
+Windows)
+OktaAdministration
+MICROSOFT TEAM FOUNDATION SERVER
+Data Management
+CrystalReports
+R&D
+Business Management
+DATA STRUCTURES
+Power shell
+SALES
+emberjs
+Shipping
+FORTRAN
+DataArchitecture Compliance Assessment
+GRAPHIC DESIGN
+HTML5
+Circuit Analysis
+Genetic Algorithm
+ClearCase
+10
+Marketing Strategy
+Windows 8
+SharePoint Designer
+CHANGEMAN
+SunOS
+Xilinx ISE
+gdal)
+HIVE
+ACUCOBOL
+OFFSHORE
+Frameworks: Hibernate
+Eclipse Juno IDE
+Medical Billing
+CATALYST
+Implementation
+Mercurial
+OracleOperating Systems: Windows
+Maximo
+40
+Ad Design
+MicrosoftOffice Suite
+Contract Negotiation
+Medical Terminology
+XML
+LinuxLanguages: C/C++
+selenium
+d3
+Visual C++
+AngularJs
+Powerpoint
+CUSTOMERRELATIONSHIP MANAGEMENT
+AR
+Github
+ANIMATION   Technologies: MySQL
+HTML;Database: SQLite
+exchange
+Training
+databases
+IIS
+Mergers  &  Acquisitions
+GanttProject
+AWS S3
+Database schema design for applications
+SAN
+SYSTEM ANALYSIS
+TOPO
+IBM WebSphere
+Redux
+Unity3D
+Data Structures & Algorithm
+WCF
+Java EE 7
+authentication
+Design Patterns
+Oculus Rift
+SQL; Visual Studio
+Enterprise Architecture
+Information Architecture
+2012
+FACETS
+IMS DB/DC
+Java Servlets
+Computer Security
+MicrosoftExcel
+Active Directory
+SQL Server ManagementStudio
+VendorManagement
+Mocha/Chai
+Virtualization
+Cordova
+Datagrip
+WebSphere Administration
+WMS
+Managing an international team
+aspnet core
+Verification
+Qlikview
+Spring IOC
+Requirments Analysis
+FLASH
+Ajax
+scru
+Financial Analysis
+HP QTP
+Oracle R12 Financials
+MIMO
+Optimization
+AWS EBS
+DIGITAL MEDIA
+AXIS
+MSSQL Administration
+RESTful Web Services
+Typing 65 WPM
+PEOPLESOFT
+PHPSoftware: Visual Studio
+Java Programming
+Eclipse
+Financial Management
+Symantec
+PROGRESS
+DOCUMENTATION
+Event Manager
+POLICY MANAGEMENT
+MICROSOFT VISIO
+PPC
+Computer Repair
+Hyperion Financial Management
+Asp
+SASS/LESS
+KNOCKOUT
+EXCHANGE SERVER55
+Spring tool suite
+Servlet
+MIPS
+optimization
+Ionic 2
+Systems Security
+oncology
+Mandarin Chinese
+Pivotal
+SCHEDULING
+Adobe XD
+Cross-browser Compatibility
+INDESIGN
+MS-DOS
+SCRUM
+IP Security Cameras
+MySQL)
+Account Management
+McAfeeePO
+Medical Billing And Coding
+Sketch
+LAN
+HTML5 C#
+ArcObjects
+Secretarial
+CAM/CAD Development
+LabVIEW
+Data Center Cabling
+HBase
+ASPNET)
+Oracle Developer Suite
+Device Drivers
+EntityFramework
+FISMA Compliance
+Object Oriented Programming
+embedded software
+CONTENT MANAGEMENT SYSTEMS
+Software Modeling
+Twitter
+HTML5 Web Development: JavaScript
+TESTING
+Oracle 11G
+Artificial NeuralNetwork
+Labworks
+Team Lead/Supervisor/Managerial Duties
+PSPICE
+Struts
+FRONT END DESIGN
+APACHE HADOOP MAHOUT
+Visual BasicApplications: Oracle E-Business R12
+Windows OS
+illustrator
+Android
+Finance
+Skills   Stocking
+C#Net
+AVR
+Partial Differential Equations
+ionic 2 Core Java
+APACHE KAFKA
+AdobeIllustrator
+ASPNET CORE
+Sales order
+Fixed Income
+Presentation Skills
+technical support
+Machine Programming
+iRobot
+Site planning
+SQL Languages Python
+SYSTEMS ANALYST
+IDLE
+Program Development
+Creative Mind
+Operating System Windows XP
+Windows Server
+COMPUTERVISION
+Spring boot
+Adobe Suite
+VMWare
+Adonet
+TechnicalWriting
+Microsoft TFS
+E-commerce
+Bash Scripting
+Page Layout
+BACKUPS
+VxWorks
+GMP
+Confluence
+3D Design & Development
+SQL/SQL Server
+Excellent communication skills
+NPR Report Writer
+CICS
+python)
+Waterfallmethodology
+Conflict resolution
+JavaScript/jQuery
+algorithm
+Visual Studio (C#
+BUSINESS DEVELOPMENT
+Third Party API Integration
+NET 20
+LESS
+Firebase
+MySQLDatabase: SQL ServerCMS: WordPress
+Excel (vlookup
+Junit
+Authentication
+A/B Testing
+Compass
+Supply Chain
+Trainer
+escrow
+DBA
+Fortran
+MS SQL
+CommunicationTheory
+DFU And Query/400 Database: SQL
+MS access
+Net WCF
+RabbitMQ
+AWS Solutions Architect
+Planning
+Exchange
+ASPNET Web Forms
+SVN
+Systems Analyst
+Able to multitask
+Event Sourced Architecture
+Validation
+Toad
+LAMP
+HTML/CSS/JavaScript
+Visual Studio 2015
+Oracle 10G
+COBOL
+ACTIVE DIRECTORY
+Google API
+DATA ACQUISITION
+Listings
+Medical Devices
+Administrative Support
+Embedded Systems
+DPDK
+Computer Graphics
+PACS
+Bitbucket
+Pardot
+ProblemResolution
+Languages: C#
+FreeBSD
+Prototype
+Mapbox
+Kanban
+Mobile app developement
+Software Life Cycle Management
+MapR
+Interaction with Customers
+Caspio
+Tibco Spotfire
+ecommerce
+BuildingPersonal Computers
+Enterprise Data Architecture
+Microsoft Office Expert
+VersionOne
+INFORMIX
+VisualBasic
+Instructor
+GitHub
+Neural Networks
+VISUAL STUDIO
+solutions
+REST APIs
+Redis)
+Health Education
+SAP Information Steward
+Haskell
+USER INTERFACE
+Organizational Skills
+Visual Compliance
+2003
+TECHNICALS KIL LS LANGUAGES/FRAMEWORKS C/C++
+mvc
+VB 6
+DreamWeaver
+Teamwork
+Microsoft Stack
+c#
+Purchase orders
+AWS IAM
+SQLite)
+MS Office products
+compliance management
+Version One
+Adobe Dreamweaver
+SSMS
+RxSwift
+Vim
+Bookshelfjs/Knexjs
+HMI
+SalesforceOperating Systems: Windows
+MAC
+APACHE
+Clear Case
+vxworks
+BLUEPRINT
+Pulling
+OSHA Certified Forklift
+FINANCE
+and LabVIEW FPGA
+coding
+HTML Programming
+html5
+BEA/Oracle Tuxedo
+HP UNIFIED FUNCTIONAL TESTING
+Data Center
+Oracle eBusiness Suite
+Cisco AnyConnect
+Server Administration (Linux
+SOX
+SDLC  methodologies
+marketing
+IBM Ubuild
+Economics
+LANDesk
+embedded systems
+Prometheus
+Java
+Make
+WooCommerce
+Singleton
+Integration
+WINDOWS PRESENTATION FOUNDATION
+WEB GRAPHICS
+make
+UML
+expressjs
+UWP
+UDP
+MES
+Sbt
+MicrosoftNET
+BUDGETING
+SRSS
+PhoneGap
+Delphi
+ABAP HR
+Jquery
+use case
+Process Flow documentation
+Data Mining
+design/development
+MacOs
+Scrum
+Spice
+Oracle Financials
+Data cable
+SD
+CMS
+Microprocessor System Design
+J-SON
+AutomatedTesting
+ItProject Management
+Sharepoint Designer
+training
+Security
+Entity Framework
+Documenting
+FORECASTING
+MapReduce
+Component One
+Ruby onRails
+ASP Net MVC
+IBMiQuery
+Hyland OnBase
+VISIO
+HTTP
+AS400
+ABAQUS
+Monte Carlo Methods
+RDBMS
+Uniface
+Beyond Compare
+Troubleshooting
+APPLICATION SERVER
+ASPNet MVC
+JMP
+Maintenance Programming
+CPP
+Acceptance Testing
+Excellent written
+VBnet
+Boss Help Desk
+PROE Operating Systems: Android Studio
+PROJECT MANAGER
+TPF
+front-end
+Penetration Testing
+Marketing
+EMR
+INTEGRATION
+Microsoft Exchange
+octave
+Market Research
+MS NET
+aspnet
+Responsive design)
+ITIL
+Mean Stack Web Development
+MS SQLSERVER
+InDesign
+Colleague Web UI
+AMBITIOUS
+PlSql
+Postgres)
+Aspnet
+Arduino
+Customer Service Skills
+openAM
+drafting
+Front-End
+Xcode
+Tom
+infoPath
+CREATIVE WRITING
+DIRECTX
+DATA MIGRATION
+CLOJURE
+RelationshipManagement
+ReactiveX
+Java : Spring MVC
+testing
+Springs andHibernate
+Ruby On Rails
+VisualStudio
+wv10
+CONTRACT MANAGEMENT
+Windows XP/VISTA/7/8
+AM TRUST
+Mac OS
+EMBEDDED C
+System Integration
+MicrosoftSQL Server
+and Administration (Oracle
+PeopleSoft
+C/C++ on Windows and Linux/Unix
+ASIC
+ABENDAID
+SQL SERVER
+Jasper soft
+OS/400Programming Languages : CLLE
+Platform Builder
+Command Line
+UAT
+C+
+SiteMinder
+Statistical Analysis
+Omegamon
+Retail
+TIBCO
+Html5
+Easytrieve
+CIRCUIT DESIGN
+SOFTWARE DEVELOPMENT LIFE CYCLE
+Team FoundationServer
+Software: MS VisualStudio
+DATA ANALYST
+TableauSoftware
+Java ANGULARJS
+AMAZON DYNAMODB
+Brackets
+Apache Pig
+ActiveRecord
+SLDC
+TCP
+Mathematica
+AspNet MVC
+PersonnelManagement
+Usability Testing
+Linux / Unix
+react js
+VideoJS
+Technical Support
+SECURITY
+FrontEnd:Javascript
+Reasoning
+MICROSOFT SSRS
+HP
+MAINTENANCE
+Acrobat
+Customer Relationship Management
+Project
+maintenance
+TECHNICAL SUPPORT
+JUNIT
+Optimization Techniques
+Resource Management
+COLDFUSION
+Sql server
+Cisco serving configuring
+Heroku
+Branding
+CSSEditors/IDEs: Microsoft Visual Studio
+Ariba
+Apache Tomcat server
+Assembly
+RethinkDB
+R Studio
+ASP
+Cloud Computing
+Microsot SQL
+Routers
+CLEAR CASE
+QA TESTING
+RiskManagement
+Understanding of WebDesign
+SQL  Amazon Web Services
+C
+TortoiseSVN
+Great Organizer
+MILSTAR
+aspnetmvc
+Objective-C
+htaccess
+DOM
+SemanticData Modeling
+Rest web services
+Spanish - Conversational
+Software Development
+Soa
+Database Design and Management
+Adobe After Effects
+SQR
+Active Directory Administration
+91% on Oracle OCP-1
+Data Migration / Conversion
+Hyperion Enterprise
+BUDGETING/FORECASTING
+Data management
+SQLserver
+Lotus Notes
+CPT CODING
+Cerner
+CRO
+Control-M
+XCODE
+operations
+LTE
+Scrum Front End: JavaScript
+Javascript / jQuery
+D
+Data Warehousing
+Apple appliation development
+Basic Microsoft Office (Excel
+Analytics
+C Programming
+Telecommunications
+Norton Utilities
+Jmeter
+Book Design
+problem solving
+Spring
+JavaFX
+Wolfram
+Elixir
+PR
+ABAP
+Commercial Awaness
+unix
+Salesforce  Administration
+CLIENT RELATIONS
+Adobe Premiere
+PC Technician
+Adobe Illustrator
+Dependency injection
+ASSEMBLY
+CUSTOMER RELATIONSHIP MANAGEMENT
+ArgoUML
+bootstrap
+Vensim
+WORD
+AXAPTA
+HTML 5
+DataAnalysis
+Microsoft VisioOffice Tools: MS Office
+BPM
+Communication
+LDAP
+Teaching
+Shell
+Flash
+Net
+MS Office
+RESTful webservice
+GIS
+MySql
+ORGANIZATIONAL SKILLS
+Crossfilter
+Database Management
+Adobe Audition
+Servlets
+PENTAHO
+Power Point
+Creative Direction
+Video integration
+Phone System Admin
+Requirements Analysis
+Jess
+Net 45
+Claims Systems
+Med-Host
+STRUTS
+Active DoD
+Microsoft Office Excel
+IRIX
+jquey
+back end
+Liquid
+Axure
+STATISTICAL ANALYSIS
+VB 60
+CSS3
+HFSS
+Framing
+Restful Web Services
+Oracle SOA
+DOCUMENTING
+DB2/400
+Emacs
+antenna
+ALGORITHM
+UIL
+Financial Reporting
+Spring Hibernate
+Disaster Recovery
+REMEDY
+LinuxMiscellaneous: ASPNET MVC framework
+SQLSERVER
+SQL Sever
+Xenco
+MySQL
+UNIX/LINUX
+SAAS
+IPSEC
+MOQ
+Web Service Pub/Sub)
+Sharepoint
+EHR
+CLIENT SUPPORT
+Microservices
+EmbeddedSystem (Embedded Linux
+Windows XP
+Visual Studio
+API
+Software Security
+JAVA
+CouchDB
+Hyperion Application Link
+Qt
+mongodb
+ProcessImprovement
+CISCO
+Css3
+User Interface Design
+Operating Systems
+OLAP
+MODEL-VIEW-VIEWMODEL
+Rightfax
+web services
+SQL 2008/2012
+3D modeling
+Backbonejs
+Data Structures
+PAINTING
+MS Office Suite
+Object Oriented design
+C#) Business (Projectmanagement/planning
+CI/CD
+Unix/Linux
+UNIX
+Swagger
+CASH
+XHTML
+Data Science
+TEAM PLAYER
+CustomerRelationship Management
+VB6
+TEST SCRIPTS
+BASH
+Kofax Capture
+Endevor
+Pascal
+Broadcom HW
+Premiere
+CHIP/STAR Medicaid
+Credit Card
+Data Structures &Algorithms
+KendoUI
+RECONCILIATIONS
+CSS- Hardware Skills: Multisim
+Drupal
+FEA
+DESKTOP APPLICATIONS
+DB2
+Perforce
+Database systems
+BIG DATA ANALYTICS
+Emr
+vrjuggler CAD: NX
+Postman
+Sales Order Processing
+Logo and Branding
+Ruby on Rails
+jquery
+Facets
+Windows 2008/2012
+Entrepreneurship
+technical documentation
+O3W
+RUP
+Mongo Db
+CONTROL SYSTEMS
+Kentico CMS
+Codeigniter
+BMC
+Nginx
+Cucumber
+SQL Server Management Studio
+Lucene Solr Search
+DHCP
+Angular Material
+Technology Development Platform
+ELECTRONIC HEALTH RECORDS
+JDO
+EPIC
+Expression Engine
+User Experience Design
+Numerical Analysis
+Startups
+Development Life-cycle processes
+Service Now
+Sublime Text
+Application Support
+Chrome Developer Tools
+web design
+Adobe Creative Suite
+Server
+MicrosoftVisual Studio
+Cisco
+Hive
+CUSTOMER SERVICE
+bower
+C# dotNet
+MS  Visio
+Team Leadership
+RPG ILE
+CLS
+data acquisition
+AdWords
+Microbiology
+WPF
+Avaya Applications
+ACCOUNT RECONCILIATIONS
+Video Conferencing
+python
+MS SQL Server
+Karma
+DB2 Relational Database
+Proficient in Electronic Health Record
+BootStrap
+RFCs
+SQL
+ASP Net Web Forms
+Selenium
+Dropwizard
+Ja
+Communication skills
+systems and process optimization
+ACTIONSCRIPT
+UNIT TESTING
+Microsoft Products
+Systems Analysis
+SAP HANA
+Project estimating Tool MST
+E-BUSINESS
+Tortoise SVN
+CSS / CSS 3
+MVC
+Residential Gateway
+OpenCV
+MODEL VIEW CONTROLLER
+DATABASE ADMINISTRATION
+correspondence
+integration
+LAMP Stack
+IP Telephony
+BizTalk Server
+WEB SERVER
+Python Other: Sketch
+Analytical Reporting
+C++
+SpringMVC
+Cloud
+WATCOM C/C++
+UI-Router
+Database(MongoDB
+SpringBoot
+OpenGL ES
+Microsoft Visual Studio
+data modeling
+UX / UI Design
+C++ Languages: Java
+Objective C
+E-Commerce
+Thermo Jarrell-Ash
+DevOps
+Vb6
+OFFICE SKILLS
+ASPNET Web API
+Food Preparation/Services
+Power Systems
+Sales Management
+SQLTools Selenium
+Mergers &Acquisitions
+J2Ee
+Project Development
+Enovia V6 development and customization
+EL
+Gradle
+Cryptography
+SQL/MySQL
+u-boot
+Akka Actor
+PowerShell
+Expressjs)
+Cobol
+Shopify
+Cassandra
+Inventory Management
+GNU
+data centernetworking
+Environment: Visual Studio
+Retail sales
+Apache HBase
+Bootstrap
+operations research
+asp net
+AJAX Languages:  PHP
+SOAP/REST
+Cybersecurity
+SHARE POINT
+Jenkins
+SSH
+Citrix
+POS
+3DS Max
+AWS Redshift
+c++
+McKesson
+JavaScript(JQuery
+LEARNING AND DEVELOPMENT
+Business Process Improvement
+RPG III
+Lean Six Sigma
+3D Printer Operation
+Adobe Creative Suites
+Electronic Control
+STRUCTUREDSOFTWARE
+NASA
+ProjectManagement
+XamarinIOS development
+Perkin-Elmer
+POINT OF SALE
+Leadership
+HyperionRetrieve
+RPG
+CodeCollab
+LinuxHardware: TI MSP 430 Microcontroller
+MS  Access
+NodesJS
+Skype forBusiness
+Graphics
+Online Marketing
+Analysing
+Illustrator CC
+Failure Analysis
+html
+DetailOriented
+Network Security
+MSOffice
+Pig
+ionic framework
+Snagit
+Windows Xp
+Notepad++
+SQLite3
+Adobe Photoshop
+Factory EquipmentService Management
+Predictive Analytics
+Visual studio
+Java/J2EE16/16
+COGNOS
+Primavera
+EDI
+Research
+Telerik UI
+Flexibility
+Written Correspondence
+COMPTIA
+Web Design
+Oracle DB
+GENERAL OFFICE
+Rigid Body Analysis
+ASTERADATA
+and HibernateTools: SVN
+Web Testing
+SQLServer HTML5
+Android SDK
+Cross Compiling
+Agile Project Management
+content management
+DSP
+SSIS
+jQueryTDD: RSpec
+Team Leader
+ExtJS
+Microsof Project
+Kronos
+MENTORING
+PROBLEM SOLVING
+IntellijOperating Systems Linux
+Debugging
+Labview
+Visio
+Shell Scripting
+AJAX
+Recruiting
+PostGres
+RETAIL SALES
+CONTENTMANAGEMENT SYSTEMS
+CM
+Full Stack Web Development
+backend
+Embedded Real-time development
+Windows Server 2003
+Infrastructure Design
+Proficient In Microsoft Word
+DATABASE DESIGN
+iOS
+OGC WMS/WCS/WFS/CSW
+Photoshop CC
+Linq
+ICD-9 Coding
+System Administration
+NET FrameworkPrograms: Unity 3D
+Algorithms
+Commissioning
+Microsoft Windows
+CakePHP
+Specialties: Java
+3DS MAX
+CACS/STRATA
+IBM Udeploy
+Pattern Matching)
+OBJECT-ORIENTED
+HIPAA
+Conflict Resolution
+Process Management
+order management
+TELEPHONY
+PCS
+mapping
+Webex
+ANT
+CA-Ideal
+aspnet web forms
+SEOptimer
+SAS
+ServiceNow
+BFD
+As400
+ENGINEER
+Microsoft SQL Server)
+NPM
+Workflow
+Systems Analysis and Design)
+EXCEL
+ANGULARJS
+Organizing
+BILLING
+SQL Server
+C++ Programming
+Production Management
+Accounting
+Data Visualization
+Microsoft Internet Information Systems
+Notecetera
+DATABASE MANAGEMENT
+PROJECT MANAGEMENT
+Microsoft Expression Web 4
+instructor
+Google App Engine
+Databases
+Edi
+Git and SVN Source Control
+Marketing Communications
+Javascript
+HTML/CSS
+Leadership Development
+Dimensional Modeling
+Storageand RAID
+SAP Business Objects
+Cinema 4d
+Javascript (Angular
+D3
+Django
+Microsoft Access
+APACHE CASSANDRA
+ITEMS
+Pre-Commissioning
+I18N
+ADC
+AdministrativeAssistant
+Relational Databases
+Cases
+MS Access
+healthcare
+Programming
+Physics
+Interpersonal Skills
+Adobe Photoshop + Creative Suite
+Microsoft Dynamics CRM
+Sales andMarketing
+change control
+Human Centered Design
+Consulting
+SQL using mySQL
+Microsoft  Office
+Windows and MacOperating Systems
+DNS
+Application Security
+OSX
+JavaScriptLANGUAGES: Python
+Development
+PRESENTATION SKILLS
+Ext JS
+MIS
+ManagedC++
+SpartaJs
+CERNER
+sumifs
+Microsoft Office 2013
+Horizon
+Web Services
+DATA ANALYSIS
+Microsoft office
+Microsoft Sql Server
+All Microsoft office programs
+Sinatra
+DATABASE MANAGEMENT SYSTEM
+SELF MOTIVATED
+Ant
+Time Management
+SPSS
+Git
+AdobeCreative Suite
+IBM Maximo
+MPLS
+Hardware
+WLAN Wi-Fi
+TDD
+Quality Assurance
+Silverlight
+Requirement gathering and analysis
+Physical)
+Exchange Server
+Adobe ExperienceManager
+New Product Development
+Project Management
+AWS Route 53
+Phone  Systems
+Program Management
+TCL/TK
+EJB
+SQL Server 2000
+IBM MAINFRAME
+Node js
+Computer Vision
+bioinformatics
+30
+GitUS Air Passenger Visualization (dcjs
+CHEF
+ORACLE
+Adobe CS5
+IOS
+REXX
+BORLAND C++
+Visual  C++
+includingPivot Tables
+Dynamics GP
+T-SQLOther: TFS
+Front-end Development
+REST API
+Adobe CS
+AUTOMOTIVE
+CSS & CSS3
+ExpressJS
+DRIVELINES
+Object OrientedProgramming
+Coded UI Automation test
+EMBEDDED MICROPROCESSOR
+Mootools
+Angular 1x
+& Documentation
+ASP NET
+Outlook
+Computer Architecture
+International Business
+DATA SERVICES
+Android Studio
+Akka
+Strategic Planning
+OPNET
+Visual Studio 2013
+Exchange Server 2003
+Amazon RDS
+Oracle
+Packet forwarding
+Mega EA Tool
+Peleton wv9
+Reporting
+Restfull Web Service
+QA
+IntelliJ
+LEADERSHIP SKILLS
+SCRIPTING
+JPQL
+C#
+SQL Server 8
+Transportation Regulations
+XAML
+InterpersonalSkills
+ALGORITHMS
+APPLICATION TESTING
+Ora
+redis
+MAPPING
+AWS CloudWatch
+eMBMS
+PROACTIVE
+Programs: MS Access
+SoftwareImplementation
+Chef
+project management
+MICROSOFT PROJECT
+Visual StudioNET; SQL Server
+DatabaseManagement
+ADOBE PHOTOSHOP
+Oracle SQL
+Sharepoint administration
+BAPIs
+CSS 3
+Jasmine
+Object Oriented Progamming
+MS  Project
+AnyLogic
+RapidPrototyping
+entityframework core
+aspnet web service
+DELPHI
+MSSQLServer
+J2EE
+CLIPS
+Office Equipment
+Couchbase
+React JS
+EXCELLENT WRITTEN
+MySQLWorked with: OpenText Teamsite 81
+Hyperion Smart View
+MICROSOFT EXCEL
+Product Packaging Design
+PostgreSQL
+OPTIMIZATION
+Google MapsFlores API
+Google Cloud
+Z/OS
+DOS
+GDB
+NodeJS
+RPG Free
+Joomla
+Vue
+xSTP)
+SOLARIS
+BootstapGeneral Software Engineering: Java
+ReactJS
+MySQLSoftware Expertise: Windows
+Visual  Basic
+Xamarin forms
+IoT
+Help Desk
+RESTFUL SERVICES
+CustomerRelations
+DATA MANAGEMENT
+APPLICATIONDEVELOPMENT
+Kenandy
+APACHEKAFKA
+Testing
+SAP
+database
+PHP
+ASPnet)
+PhoneGapSystems: Windows (7
+Embedded Linux
+WebApi 2x
+Agile/Scrum
+Adobe Indesign
+VHDL
+HP-UX IRIX
+Azure ServiceBus
+Dev Express
+Microsoft SQLServer
+WORK FLOW
+Content Management Systems
+Endeavor
+Healthcare
+ASPNET Languages: C#
+Genesys
+IVR
+Front End
+3M CRS
+CoreML
+Infographics
+data warehouse
+Solr/Lucene
+Sencha
+Networking Programming
+Power BI
+Rational
+MySQL Ruby
+R Shiny
+VR/AR Development
+Android Application Development
+Kerberos
+ETL Datawarehousing
+Responsive Design
+Massive MIMO
+Java8
+Systems Development Life Cycle
+Oracle Reports
+Agile workflow
+Financials
+Secure Host Baseline
+3M 360
+Management
+Visual StudioCode
+Inventory
+iOS ARKit
+RECEPTIONIST
+Groovy
+Bootstrap / ResponsiveDesign
+System Architect
+MySQL Languages: Python
+Evangelism
+angularjs
+ACTIVEDIRECTORY
+Slack
+Bootstrap METHODOLOGIES Agile
+Customer Relations
+VFP
+Oracle Database Administration
+CCNA
+sql
+INTERNET INFORMATION SERVICES
+Salesforce Administration
+Document Management
+DELL CERTIFIED
+CodeIgnitor
+MongoDB
+VTK
+OpenVMS
+business intelligence
+MS ASP
+Midas+
+INSTRUCTOR
+GRAPHICAL USER INTERFACE
+POSTAL
+Angular 2
+OOD
+user interface
+Computer Hardware
+Amazon Web Services
+CocoaPods
+charts and others)
+Ionic
+Content Management System
+Sellbrite
+Agile Development
+OPENCL
+SAP ABAP
+R
+ARCHITECTURE
+Team Player
+ADONETBackend: SQL Server 2014
+Mongo
+ADOBE PREMIERE
+Osha
+Stored Procedures
+GOAL-ORIENTED
+Video Editing
+BI
+HerokuVR & Game Development: C#
+Integrator
+HPOO
+mySQL
+CampusVue
+SoC
+TIME MANAGEMENT
+ASSURANCETESTING
+Orientdb
+Html
+WordpressApplications: Photoshop
+ASME Standards
+Matlab and Simulink
+Embarcadero
+Customer Support
+Semantic
+Java EE
+LINQ
+Redis
+Intercom
+Illustration
+career development
+CoreData
+Cashier
+Credit
+MVS
+VBNet
+WEB SERVICES
+Desktop Support
+Fluent in Spanish
+Indesign
+Infusionsoft
+Scala
+Forecasting
+MongoDB)
+Gap analysis
+Operations
+Dhcp
+softwareimplementation
+Angularjs
+2015)
+Type 45 Wpm
+ReverseEngineering
+Customer relationship management
+Wordpress
+Hadoop ecosystem
+Database Administration
+VOIP Phones
+NetworkSecurity
+Automation
+MicrosoftOffice
+Matlab
+Defect and bug Tracking
+pivots
+Web service
+faxing
+CSS3*
+plotting
+Unicode
+MySQL Cluster DBA
+Publisher
+PerformanceManagement
+Minitab
+Solaris
+Express
+Raspberry PI
+Ms Visio
+IBM DB2
+Ms SQL Server
+ROBOT
+ShellScripting
+Typing
+35
+use cases
+Robot
+QuantIMS
+Metal Casting
+OBJECT-ORIENTED DESIGN
+Micrsoft Office
+Unreal Engine
+TypeScript
+SQLDatabases
+Inversion of Control
+WINDOWS XP
+Block Storage
+servlets
+MD Documentation
+Adobe CC
+MICROSOFT ACCESS
+UNIX Scripting
+BGP
+Project Coordination
+Extensive Experience with MS Excel
+PROJECT LIFECYCLE
+Knockout
+AUTODESK
+opticalnetwork
+java
+AWS Kinesis
+It Service Management
+JBOSS
+GUI
+Autocad
+BUSINESS REQUIREMENTS
+business requirements
+NoSQL
+Process Improvements
+MERCURY
+Project Planning
+OPEN GL
+NHibernate;
+JDBC
+Software Development Life Cycle
+Unix Administration
+HR
+js
+Market Development
+CSS Media Queries
+stored procedures
+Telephone Skills
+Expressjs
+Leaflet
+UltiPro Payroll
+architecture
+Hyperion Financial Reporting Studio
+Pallet Jack
+Akka Stream
+as/400
+PHPStorm
+VISUAL BASIC
+DENTAL
+HTML
+Agile Web Development: JavaScript
+StratumViewer/Planner
+application development
+MICROSOFT SHAREPOINT
+MERN stack
+GeneralLedger
+HP Exstream
+MDM
+computer software troubleshooting
+Rails
+UI
+FUELS
+VANTAGEONE
+Altiris
+JQueryMobile
+Microsoft Test Manager
+TypescriptDatabases: SQL(MySQL
+Google Search Console
+UDB
+Budget
+Database/DBMS: MicrosoftSQL Server
+CHANGE CONTROLMANAGEMENT
+Object Oriented Design
+Start-upveteran
+Macintosh
+git
+JavaSoftware: Visual Studios (2010
+Logo Design
+webMethods
+Object Oriented programming
+Internet Information Services
+Access
+perfoce
+VBNET
+FRAMEWORKS Languages and Frameworks: C#
+Tomcat
+jQUERY/AJAX
+Vendor Relations
+AmazonEC2
+PL/SQL
+UNITY 3D
+FireWorks
+React Js
+Chai
+Engineering
+Asp NET
+Vmware
+Google Firebase
+Microsoft Office including Project
+LAWSON
+Data Entry
+Websphere
+OPA
+user experience
+Ji
+Command Line Interface
+UNIT TEST
+CTI Telephony
+ASP Net DynamicData
+Microsoft SharePoint
+Microsoft office 365 certified
+OpenMp
+ECMAScript 6
+express
+Agile Methodologies
+Web Technologies: HTML
+Salesforcecom
+Netbeans
+BootstrapBackEnd:NodeJS
+Art Direction
+ACROBAT
+Twitter Marketing
+PingIdentity
+Less / Sass
+Matlab/Simulink
+Microsoft Office Products
+MVC 5x
+Jenkins CI
+APACHE HADOOP SQOOP
+MICROSOFT WINDOWS
+Defect Management
+SQL / MYSQL
+VirtualBox
+Arduino programming
+Web services
+Java Web Services
+Engineer
+Backbone
+SQLServer
+INTEGRATOR
+BMC Remedy
+MS Excel
+Simulink
+security
+OpenGL
+extJS
+Shell scripting
+Imaging
+debugging
+BEST PRACTICES
+Automotive Diagnostic and Repair
+MEDITECH
+CORBA
+Single Sign-on
+Network Administration
+Oracle fusion middleware
+Powerpoint)
+Telecommunications oss/bss
+Google Docs
+Unity Game Engine
+Relational databases
+Git/gerrit
+Apache Kafka
+AzureML
+Salesforce  Development
+Blackberry Work
+chart
+Microsoft Windows Server
+Pharmacy
+Microsoft Excel
+SEO
+High Level Design
+Linear Optimization
+CUSTOMER RELATIONSHIPMANAGEMENT
+NEURAL NETWORKS
+Development: C
+Mac
+Customer Specifications Gathering
+LicensedProperty and Casualty
+RESTful
+Service
+etc
+AJAXMiddle Tier: ASPNET
+IEEE 80211
+Microprocessor Programming
+Microsoft Expression Web
+Office Management
+Java | LAN/WANImplementation
+DOCUMENTUM
+Exact products (Macola ES
+InfluxDBTools: Cmake
+AspNet Web Api
+Microsoft Office 365
+Access Control
+Supervisory experience
+BIZTALK
+Trello
+Test andEvaluation
+Ada
+JMS
+Computer Assembly
+Azure
+GCP
+PowerPoint
+Ruby
+Functionality testing
+MS Poject
+Multi-Line Phone System
+ASP Net
+Data Analysis
+INTERNET PROTOCOL SECURITY
+Verilog
+AUTO CAD
+Oracle PLSQL
+YII
+ACCOUNTS AND
+Ableton Live
+PASCAL
+Performer
+SQL Server(2012
+HTML & HTML 5
+Automation testing
+XP
+Weblogic
+Postgres
+RightScale
+Excel VBA
+SQL (Oracle
+SOFTWARE ENGINEER
+VPN
+troubleshooting and optimization
+INBOUND AND OUTBOUND
+Microsoft Office365
+CostPoint
+IntelliJ IDEA
+codecloud
+Archival Research
+Systems Integration
+AWS SQS
+No SQL
+T-SQL
+AWARD
+MS Internet Explorer
+php
+arcGIS
+tcsh
+TEACHING
+PresentationSkills
+scripting
+MS Project
+LOTUS NOTES
+c+
+BPR
+IBM
+Core Data
+IPHONE
+DevExtreme
+BUSINESS ANALYSIS
+MS SQL Server (2000
+Mock Ups and Presentation
+ISO
+SAP Payroll
+TRANSFORM
+Boostrap
+Event Planning
+SOA
+Oracle Databases
+ADA
+PURCHASING
+SalesManagement
+CTOOLS: Django
+Agile/Scrum methodologies
+ASPnet
+Quartus II
+PROVISIONING
+ASPNet
+business analysis
+MS Office SuiteVersion Control: SVN
+CCS 3
+SQL Programming Languages: Java
+plsql
+My-SQL
+Communications
+FRAMEWORKS
+Control Systems
+SharePoint 2013/16
+CSS
+MS-SQL
+Software Development Life Cyle
+SQL Server Compact
+Business Development
+VBScript
+GraphicDesign
+SOAP Web Services
+Six Sigma Green Belt
+Wireless Communications
+DATABASE
+Electric Pallet Jack
+Reactjs
+Test Automation
+Visual Studio 2017
+Firewall Configuration
+Java Web Apps
+Microsoft VBA Macro
+adonet
+Software Architecture
+BOOTSTRAP
+ILM
+OWASP
+Oracle Siebel
+Docker
+Advantage: Gen MS C
+Lucid Charts
+mentoring
+Object Oriented Analysis& Design
+MS SQL server
+Microsoft Office Suite
+Wordpress PluginDevelopment
+Vlan Trafferentiations
+documentation
+RedHat Linux
+Experienced in multidisciplinary groups
+SharePoint 2016
+2010
+SCSS/SASS
+Perl
+MedicalRecords
+VMS
+: X-Code
+ClearQuest
+Flask
+SQL Server Management Studio 2017
+AWS SNS
+Sunrise Acute Care
+Ruby Web-based software engineering
+Training & Development
+APACHE HADOOP HDFS
+Siding
+Selenium testing
+JVM
+Visual Studios
+Micro-Service
+Wcf
+Ecommerce
+Office Applications
+Software testing
+EMR/EHR
+Vendor Management
+5S
+Apex
+Critical Thinking
+Visual Basic Net
+SoftwareDevelopment
+Point of Sale
+Git/GitHub
+AWS VPC
+Sql
+MCSE
+81
+Problem Solving
+AspNet MVC 4
+Series 6
+Magento
+JAX-WS
+ADOBE ILLUSTRATOR
+RMS
+Web Forms
+Networks
+Angular 4
+APACHE SOLR
+Google Drive
+Writing
+communications
+Agilent
+Contract Negotiations
+OFDM
+NET 45
+Magento Development
+WebAPI
+APEX
+Software design
+jQueryDatabases: MSSQL
+Telerik
+Socketio
+Sybase
+CAST IRON
+OLTP
+Twitter Bootstrap
+IIS 7
+wireframing
+Self Learning
+APACHE HADOOP MAPREDUCE
+Microsoft Office Word
+Software Documentation
+Pivot Tables
+QTP
+DREAMWEAVER
+ASCP
+3D Studio Max
+MS VISIO
+ENERGETIC
+Unix/Linuxl Programing Skills: Java
+Cloud 9 IDE
+ASPNET MVC
+ANALYZER
+Kubernetes
+GrADS
+SAP BODS
+Operations Management
+Order Picking
+ADO
+D3js
+oracle
+Quality Analyst
+Interface Builder
+Licensed Amateur Radio Operator
+2014)
+JSP
+Mathematics
+QATESTING
+EXTRACT
+animation
+manual testing
+Database Systems
+Typescript
+asp
+C++/C
+Sitecore
+Material
+AUTOCAD
+Merge CubeTools: Git
+Microsoft SQL Server
+Mahoutl Applications/Tools: Git
+DATA REPORTING
+Unit Testing
+CSS / CSS3
+Octave/Matlab
+TeamCity
+JBoss
+Very good with computers
+Website Design
+ASP Code: Javascript ES6
+ISPF
+HSPICE
+CABINETS
+Support
+EC2
+PrimeFaces
+Database
+Initiative and problem-solving abilities
+CHANGE MANAGEMENT
+JUnit
+photoshop
+ASP Net MVP
+Product Development
+Mac OSVersion Control GitMethodologies Agile
+ApacheDerby
+Detail Design
+Google Analytics
+PUBLIC RELATIONS
+Spark
+GXP
+Adobe XDOperating Systems: Windows
+Amazon Elastic Compute Cloud
+Pycharm
+Invision
+Mongoose
+Clojure
+Laravel
+SquareSpace
+TERADATA
+Ansible
+cordova
+ArcGIS
+GeoServer
+PHP HTML5
+HUMAN MACHINE INTERFACE
+Tax preparation
+Effective Speaker
+Quality Control
+MICROSOFTPROJECT
+Software development
+Lawson
+AWS Lambda
+MapServer
+printers
+Cash Handling
+Software User documentation
+Sequencing
+satisfaction
+Visual StudioWeb Development: HTML
+Adobe InDesign
+IMS
+DATABASEDEVELOPMENT
+Alcatel
+JPA
+GLSLShading
+Oracle 11g
+MODx CMSOperating System: Windows
+MS-Access
+AWS (EC2
+Military
+remedy
+Elasticsearch
+ADONETBack End: SQL Server 2016
+Sales force
+Python Languages - Java
+AngularJS
+MAINTAIN DOCUMENTATION
+customer service
+Adobe Master Suite
+MS SQL SERVER
+project manager
+WampServer
+Memcached
+Process Flow Documentation
+Machine Learning
+Scheduling
+ICD
+TeamCenter Visualization
+Nodejs and Express
+sales engineering
+jira
+UNDERSCORE JS
+mainframe
+Pl/Sql
+aspnet core web api
+Photography
+Lifepro
+Ordinary Differential Equations
+Search Engine Optimization
+Business Analysis within SDLC
+ENTERPRISE RESOURCE PLANNING
+File Manager
+SERVLET
+RAN
+Angular
+MS OFFICE
+avascript
+MicroStrategy
+Statistics
+Physical Mapping Documentation
+OPERATIONS
+Microsoft Word
+JAVA 8
+Quality Center
+Visual Studio IDE(2002
+Front end
+GiT
+laravel
+Cross-Functional Team Leadership
+CustomerService
+EMPLOYEE RESOURCE GROUP
+Computer Networking and Security
+Oracle APEX
+Unix shell scripting
+Business Logic & Database Management
+Sunrise
+ADP
+SEARCH ENGINE OPTIMIZATION
+Threejs
+Sql Server
+React js
+Creative Suite
+Load Runner
+Cantonese
+Backbone js
+HIGHLYORGANIZED
+Meditech B/AR
+Written Communication
+Software Engineering
+EclipseDatabase Systems: MySQL
+10-Key by touch
+Kibana
+Storage
+Risk Management
+Map Reduce
+DATAANALYSIS
+CHEMISTRY
+IT Management
+Solutions Architect
+Apache
+matplotlib
+SHAREPOINT
+PySpark
+Microsoft OFFICE 365
+Fieldglass
+ANALOG
+NetworkAdministration
+User InterfaceDesign
+JQuery
+2008
+TECHNICAL LEADERSHIP
+AdobeInDesign
+Db2
+Data Strutures
+grunt
+THIN CLIENT
+Argos
+Sales
+XSLT
+Rational Unified Process
+MCTS
+CLIENTS
+AngularJS 1X
+Jira
+Software Training
+Powershell
+Software Testing
+VMWARE
+Plasma Physics
+Systems Analysis And Design
+Many technical and interpersonal skills
+Coldfusion
+Clarity
+Linux - CentOS7
+Perforce Programming: C#/NET
+MY-SQL
+HTMLSoftware: Visual Studio 2012
+COMPUTER ASSEMBLY
+WinSPC
+CPT
+DataMining
+OUCampusOperating Systems: Windows XP
+Cisco Networking
+LINUX
+Bootstrap Framework
+MICROSOFT WORD
+DATA WAREHOUSING
+Digital Signal Processing
+Lucene
+QoS/HQoS
+Hibernate
+NEURAL
+AngularJS 4
+javascript
+NetBeans
+3GPP
+Quote to Cash Optimization
+R2
+JSTL
+SQLite DB
+Assembly Language
+ADONET
+Detail Oriented
+Babel
+Java ServerFaces
+workflow
+Materials Science
+Microsoft Outlook
+SiteFinity
+Cleanroom
+Change Management
+SQL Server 2008 R2
+HIPAA Compliance
+front end
+Data acquisition
+CGI
+Centricity
+Rust
+BPMN
+INVENTORY
+AngulsrJS
+Haitian Creole Fluency
+ArtificialIntelligence (Ontology
+MACOS
+SDLC
+dcjs
+RESTful API
+CSS/CSS3
+GIT
+Editing
+HPSM
+SCSS
+PUBLISHER
+OOAD
+IBM SPSS Modelelr
+RATIONAL
+csharp
+Net work processor
+MVC Design Patterns
+X86
+design patterns
+Angular/Knockout
+Android kernerl development
+WINDOWS PRESENTATIONFOUNDATION
+Moderate Graphics Design
+hibernate
+AngularJS 1
+CRYSTAL REPORTS
+Proficient In Microsoft Office
+WebSphere
+Jsp
+Version control: Git
+Agile Process
+Cache M
+UX
+Detail-oriented
+Microsoft Powerpoint
+IOS Development
+deployment
+SQL Server Software: Visual Studio
+systems implementation
+Front Controller
+Public Speaking
+ES6
+Mocha
+InstallAware
+SQLite
+Nodejs
+INSURANCE BUSINESS
+VSTS
+SQLRPGLE Tools Used : SEU
+Angular js
+JT Open
+AWS CloudFormation
+SOAP
+Wireless Networks
+Xamp
+Business Requirements
+Channel Coding for Communication
+System Aanalysis
+Smart Plant Review
+Microsoft Orchestrator
+Css
+Electronic Repair
+Avaya
+WIRELESS
+AspNet
+LeadershipDevelopment
+APPLICATION SUPPORT
+Windows System Administration
+Process Improvement
+CACHE
+QualityAssurance
+SDA
+WCF Data Services
+HP-UX
+VMware
+Package Design
+GIS Application (Map projection
+Web API
+Linux Command Line
+Natural Language Processing
+VueJS
+Automotive
+Receptionist
+Retail Sales
+REST and SOAP APIs
+Ada 83/95/05/12
+QUICKBOOKS
+Spring Boot
+Bigdata
+ASPNET  MVC
+Serial Attached SCSI
+98
+ERD
+InVision WebPrototyping
+Node JS
+Team Foundation Server
+Xacta
+Logistics Management
+Brocade
+Mentoring
+CONTENT MANAGEMENT SYSTEM
+ChromeDevtools
+As400 ETL  Tools
+Enterprise Software
+GimpPublished SitesFreshPencilWebDesigncomPGEHireAlyssiacomAPWUGFSonlineBlogChrisTheProgrammercomAround The WebCodePenio/ChrislearnsTwittercom/ChrislearnsGithubcom/ChrislearnsLinkedincom/in/Chrislearns/
+Analysis
+GapAnalysis
+XBase++
+webpack
+userinteraction
+MSWindows
+C#/NET
+masonry
+React Native
+NAT/Firwalls/IP Security
+SASS
+Model View Controller
+HDFS
+Mainframe
+openDJ
+ECC
+core Java
+Construction
+PLM
+TOMCAT
+MATLAB;Programming Languages: C/C++
+Microsoft Visio
+Scrapy
+DjangoDatabases MongoDB
+and other IDEs
+Blender
+Network Maintenance
+FOXPRO
+APACHE MAHOUT
+TorServices AWS EC2
+MICROSOFT OFFICE
+IDX
+Basic
+JavaScript LinuxMySQLCucumber
+AND LOAD
+Agile/Scrum Methodologies
+Fast learner
+Open Inventor
+P4V
+BitBucket
+REST Web Services
+German
+C ++
+Laserfiche
+Recruitment
+iOS MapKit
+PIVOT TABLES
+Web Application
+microsoftoutlook
+WebDevelopment
+ACCESS
+Word
+TSQL
+Programming Languages: Python
+Meteorjs
+Email Marketing
+PROJECT PLANNING
+HL7 standards
+TimeManagement
+Customer Service
+angular Js Programming: C
+Core Java
+HQL
+WebLogic
+DotNet
+JavaScript
+Waterfall/ Agile Methodology Development
+Fishbowl Inventory
+Supervising
+COMSEC
+Microsoft SQL Server Reporting Services
+OPENTEXT
+2000
+Sass
+Functional Specifications
+Python
+APPLICATION DESIGN
+OOP
+HTML/CSS/Javascript
+Mobile First Design
+Solidworks
+Shorthand
+SQL Server Reporting Services
+Insurance Verification
+Capybara
+UNREAL ENGINE
+Window 8
+Liquibase
+Bilingual - Spanish
+HTML5 Front End: JavaScript
+android
+EASYTRIEVE
+DOD
+Application Development
+iOS Application Development
+SNMP
+Adobe Muse
+NETWORKING
+Amazon WebServices
+Linux
+unit testing
+ECLIPSE
+Foundation CSS
+Audit
+pl/sql
+File extraction
+Professional Services
+"Solid bloke"
+Signal Processing
+Apple OSX
+networking
+TestNG
+Fileaid
+Pega
+MAC OS
+CODING
+Clearcase
+biomedical
+POS Installments
+BUDGET
+ENERGYMANAGEMENT
+Google DFP Ads
+Requirements Gatheringand Documentation
+CLEARCASE
+PROBLEM-SOLVING
+AUTODESK MAYA
+Mobile Development
+RF
+Entity  Framework
+Firewall
+MICROSOFT VISUAL STUDIO
+HADOOP
+NICE
+PYTHON
+Sublime Text IDLE
+Staff Training
+Data entry
+A/V Equipment
+Ultiboard
+angular2
+Web logic
+Mailchimp
+ASSET MANAGEMENT
+Oracle DBOperating Systems: Windows
+ScrumMaster
+SCCM
+Adobe suite
+Xamarin
+Sales Lead Generation
+NETSUITE
+Visual Design
+PostgresSQL Languages: Ruby
+NT
+MATLAB/Simulink
+LAN/WAN
+Clerical
+quality assurance
+Vista
+Logic Pro
+Billing
+Associate
+TFS
+Microsoft  Dynamics  CRM
+New Business Development
+Drupal 6/7
+JD Edwards ERP Systems
+Google Cloud Storage
+MYSQL
+PHPFrameworks: ReactJS
+ADONet
+Salesforce
+Programming/Weblanguages & frameworks: HTML5
+60 wpm
+FILEAID
+SIKULI
+SystemsIntegration
+Database Development
+Back end
+AMDOCS
+J2ME
+Azure App development
+RLU
+net
+Auto CAD
+McKesson HPF
+MicrocontrollerProgramming
+Materialize
+VSAM
+Andriod
+scipy
+Midasplus
+Node
+User-centred design
+Window& Mac OS
+Actionscript
+Java7
+Connect
+Jdbc
+Active directory
+Verilog HDL
+GenesysApplications
+Databases: HBase
+EVM
+CRM
+Data Harmonization
+Windows 7
+Django REST Framework
+Programming(Oracle SQL
+Librarian
+GracefulDegradation
+Mysql
+net (C#
+2013
+Bookkeeping
+Sublime
+Spring Data
+PC Anywhere
+Springboot
+PeopleSoft Financials
+Supply Chain Management
+MATLAB
+Graphic Design
+Teamsite
+Client Relations
+Organized
+Bamboo
+ADOBEPHOTOSHOP
+ASPNET
+Puty
+ReactJs
+J2SE
+BusinessAnalysis
+Team Building
+VbNet
+ES6)
+Finanacial Data Management
+Big Data
+SIP
+perl
+bash shell scripting
+CREDIT
+Intershop eCommerce Platform
+Swift 3
+Requirements Management
+XMLl Big Data Ecosystem: Hadoop
+MS Word
+Symix
+Kotlin
+Mongodb
+Web Development (Web Service
+Web Development
+Apache 2x
+NCL
+PSTN)
+ANDROID
+Content Management
+Problem Resolution
+Agile
+SAP SD/MM/PP
+DTS /SSIS
+Pug
+Some Photoshop
+Cake PHP
+RequirementsAnalysis
+Tools andFrameworks: Apache Spark
+RDMS
+jsp
+Memcache
+DATABASES
+System Integration (Middleware
+CPR and First Aid
+Quickbooks
+Unity
+JavaScript*
+Software Developement
+Application Testing
+Avro
+APPLICATION DEVELOPMENT
+FIREBASE
+JAX
+Google Webmaster Tools
+mongoDB
+MULTITASKING
+QA Testing
+Configuration Management
+software architecture
+Lamp
+RSA Token
+Microsoft SQL
+Seliumn
+PLSQL
+ORACLE FORMS
+MOTIF
+Unity 3D
+Waterfall
+Oral Communication
+Object-Oriented Programming
+Agile Methodology
+Datakit
+Simulator
+MSOFFICE
+7
+JCL
+BUSINESS PROCESS ANALYSIS
+Oracle VM
+Cognos
+Rally
+WordPress Development
+Java Script
+Embedded Software
+LabVIEW Real-time
+AWS EC2
+Zend
+numpy
+Weebly
+Sas
+Data Quality
+OS: MySQL
+IT
+computer hardware
+DATA SCIENCE
+Meditech
+ActiveBatch
+Full Stack
+Apache Tomcat
+scrum
+Information Processing
+REST
+Validation testing
+Microsoft  Dynamics  GP
+Business Intelligence
+PHOTOSHOP
+After Effects
+On-boarding
+Salesforce  Implementation
+Bootstrap 30
+Dependability
+Nosql
+10-Key
+Net Core
+Cadence IncisiveSimulator
+APACHE HBASE
+MySQLOther Technical: TFS
+Banking
+ANALYSIS DESIGN
+Multithreading
+TOGAF
+PDM
+MFC
+Business Requirement Gathering
+SOLUTIONS
+CA-7
+Object Oriented Development
+Report Writing
+InVision
+Interface
+RSpec
+IBM COGNOS
+Spring Framework
+NETWORK SECURITY
+Communication Skills
+Gap Analysis
+Firewalls
+Siebel
+Classic ASP + JSP
+OUTLOOK
+2008)
+Desktop publishing
+HTML / HTML 5
+Accessibility
+FILE MANAGER
+Blackberry
+Logistics
+Human Resources
+Architecture
+SQLQuery
+Matlab - Simulink
+budget
+ScalaFrameworks/Libraries Pandas
+Rest APIIDE Pycharm
+Software Development Lifecycle : Agile
+Fire Safety
+Excel
+Predictive analytics
+Business Analysis
+Manual Testing
+Windows workflow Foundation | SQL
+Hadoop
+Puppet
+Spring Social Media Integration
+CCNP
+SoftwareDesign Patterns
+DOJO
+CONTENT MANAGEMENT
+Obj-C
+Qlik
+Adobe Creative Cloud
+95)
+spring
+omnigraffle
+Real Time Operating Systems
+EXCELLENT WRITTEN AND VERBALCOMMUNICATION SKILLS
+LIFE CYCLE
+S3)
+Full-Stack Development
+Requirements Engineering
+AWS Services
+XAML/WPF
+C/C++
+NET
+c
+CITRIX
+Oracle Db
+Spring AOP
+Cadence
+Knockout JS
+REQUIREMENTS RISK ANALYSIS
+Motorola
+ACCEPTANCE TESTING
+COBOL II
+processimprovements
+MCSA
+SRCDBG
+Database design
+java script
+CVS
+Requirements Gathering
+BRMS
+Restful
+ESTIMATING
+Google App Scripts
+servlet
+Microsoft Project Plan
+Web Analytics
+ERP/SAP
+aurdino
+AdobePhotoshop
+CADENCE
+ksh ToolKits: Parasolid
+Percona Xtradb Cluster
+ERP
+Remedy
+SiteCore
+WebDynpro
+PHP5
+MARKETING
+Bash
+Linux Kernel programming
+Smarty
+Peer Programming
+Mocha/Chai/Sinon
+Information Security
+JAVASCRIPT - Software Skills: C#
+Scene Builder
+L10N
+SDN
+Police Officer
+T-Sql
+Doors
+CPR
+Rest
+Microsoft Office
+Datacom Relational Database
+JavaScriptTechnologies: HTML5/CSS
+VB
+GlassFish
+ERwin
+Illustrator
+IBM iSeries
+sql server
+SQLFrameworks & libraries: Rails
+Swift
+Salesforce Admin
+NetSuite Power User
+Adobe photoshop
+ASPNetApplications: VisualStudio
+L&D
+MicroService
+C++Knowledge: Object-oriented Programming
+Proxy
+Products Listing
+Laboratory Information Management Systems
+Atlassian Tool Suite
+Deployment
+requirements gathering
+Computer Skills
+Angular JS
+ASPNET 45
+XMLSpy
+Unix
+SeleniumOthers: Git
+Enterprise Storage
+DataAnalysis
+scheduling
+Windows 10
+Innotas
+ENTERPRISE RESOURCEPLANNING
+Faxing
+Prioritizing
+SQL Developer
+Parse-Server
+HP Printers
+FILE
+gruntJS
+GIT  C
+PAYROLL
+Relational Database Design
+Oracle OSB
+Online Marketing Languages: PHP
+Minitest
+New Market Research
+WEBLOGIC
+VOIP
+LabView
+Mobile Wireless Networks
+Auditing
+WEB API
+DATA SOURCES
+Process Development
+Epic
+Package Managers
+Amazon Web Service
+CMake
+QUALITYASSURANCE
+powersupplies
+Red Brick
+Outlook 2013
+DECISION SUPPORT PANEL
+LINUX- RHEL
+RED HAT
+PY
+L2/L3protocols(OSPF
+Network Management
+Oracle 11gR2 Database Administration
+Microsoft NET
+Microfluidics
+NHibernate
+JSON
+Business Analytics
+Peoplesoft
+Employeeonboarding
+It Project Management
+Gulp
+Helpdesk
+CA7/CA11
+FRONT-END
+EMT
+Application Server
+Eclipse IDE
+NATURAL
+internationalization
+AWS Cloudfront
+ASCII
+MasterData Management
+Tape Management
+OSGi
+SharePoint portal
+Microsoft Project

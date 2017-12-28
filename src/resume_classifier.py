@@ -8,6 +8,7 @@ import numpy as np
 from numpy import genfromtxt
 
 import os.path
+from csv_reader import CSVReader
 # import  main
 
 
@@ -16,7 +17,7 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model_sample1.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_sample2.h5'
         self._model = None
         self._input_size = 100
 
@@ -36,7 +37,7 @@ class ResumeClassifier:
         self._model.add(Dropout(0.5))
         self._model.add(Dense(4, activation='softmax'))
 
-        # sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
+        sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
         self._model.compile(loss='categorical_crossentropy',
                       optimizer=sgd,
                       metrics=['accuracy'])
@@ -53,28 +54,13 @@ class ResumeClassifier:
         # train the neural network
         # temp training data
 
-        #training_set = np.loadtxt('data/training_set_dec.csv', delimiter=',')
-        filename = 'data/training_set.csv'
-        file = open(filename, 'r')
-        training_set = file.readlines()
+        training_set = np.genfromtxt('data/training_data_normalized.csv', delimiter=',')
 
-        x_train = training_set[:][0:self._input_size]
-        y_train = training_set[:][:-1]
 
-        print('out')
-        print(y_train)
-        print(len(y_train))
-
-        print('in')
-        print(x_train)
-        print(len(x_train))
-
-        for i in x_train:
-            print(i)
-
-        for i in y_train:
-            print(i)
-
+        # x_train = training_set[:][0:100]
+        # y_train_np = training_set[:,:-1]
+        x_train = training_set[:,0:100]
+        y_train = training_set[:,-1]
         y_train_np = keras.utils.to_categorical(y_train, num_classes=4)
         # y_train = keras.utils.to_categorical(
         #     np.random.randint(5, size=(1000, 1)), num_classes=5)

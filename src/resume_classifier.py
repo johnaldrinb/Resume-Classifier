@@ -17,7 +17,7 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model_sample2.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_sample3.h5'
         self._model = None
         self._input_size = 100
 
@@ -52,25 +52,10 @@ class ResumeClassifier:
 
     def train(self):
         # train the neural network
-        # temp training data
-
         training_set = np.genfromtxt('data/training_data_normalized.csv', delimiter=',')
-
-
-        # x_train = training_set[:][0:100]
-        # y_train_np = training_set[:,:-1]
         x_train = training_set[:,0:100]
         y_train = training_set[:,-1]
         y_train_np = keras.utils.to_categorical(y_train, num_classes=4)
-        # y_train = keras.utils.to_categorical(
-        #     np.random.randint(5, size=(1000, 1)), num_classes=5)
-        # x_train = np.random.random((1000, 50))
-        # y_train = keras.utils.to_categorical(
-        #     np.random.randint(5, size=(1000, 1)), num_classes=5)
-        # x_test = np.random.random((100, 50))
-        # y_test = keras.utils.to_categorical(
-        #     np.random.randint(5, size=(100, 1)), num_classes=5)
-        # x_input = np.random.random((1, 50))
 
         self._model.fit(x_train,
                   y_train_np,
@@ -87,7 +72,16 @@ class ResumeClassifier:
         # arguments: inputs - array of input
         # must return array of probabilities
         outputs = self._model.predict(inputs)
-        print(outputs)
+        index = np.argmax(outputs)
+
+        if index == 0:
+            return('Software Developer')
+        elif index == 1:
+            return('Software Engineer')
+        elif index == 2:
+            return('System Analyst')
+        elif index == 3:
+            return('Web Developer')
         
 if __name__ == '__main__':
     main.run()

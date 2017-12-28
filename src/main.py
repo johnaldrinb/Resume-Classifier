@@ -5,7 +5,7 @@ import numpy as np
 def run():
     
     classifier = ResumeClassifier()
-    classifier.train()
+    # classifier.train()
 
     # input_sample = []
     # for i in range(100):
@@ -18,9 +18,12 @@ def run():
     # for num in inputs[0]:
         # print(num)
 
+    x_train = inputs[:,0:100]
     i = np.array([inputs[99][:-1]])
 
-    classifier.classify(i)
+    print(x_train)
+
+    # classifier.classify(i)
 
 
 if __name__ == '__main__':

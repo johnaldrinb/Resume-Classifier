@@ -13,7 +13,7 @@ class Normalizer:
             skill = skill.upper()
             #print(skill)
 
-        return skills.index(skill_description.upper())
+        return float(skills.index(skill_description.upper()))
 
 
 if __name__ == '__main__':
@@ -23,15 +23,15 @@ if __name__ == '__main__':
     job_index = 3
     job = jobs[job_index]
 
-    filename = 'data/' + job + '_index.txt'
+    filename = 'data/' + job + '_index_dec.txt'
     file = open(filename, 'r')
 
     skills = file.readlines()
     skills_indexes = [None]
 
-    cols = 100
+    cols = 80
     col_count = 0
-
+    index = 0
     remainder = len(skills) % 100
 
     if remainder > 0:
@@ -41,14 +41,18 @@ if __name__ == '__main__':
         for i in range(remainder):
             skills.append('-1')
 
-
     for skill in skills:
+        print(skill)
         # skills_indexes.append(normalizer.get_skill_index(skill))
         col_count += 1
-        out = open('data/training_set.csv', 'a')
-        out.write(skill.rstrip() + ', ' + str(job_index))
+        index += 1
+
+        out = open('data/training_set_dec.csv', 'a')
+        out.write(skill.rstrip() + ', ')
+        # out.write('\n')
 
         if col_count == 100:
+            out.write(skill.rstrip() + ', ' + str(job_index))
             out.write('\n')
             col_count = 0
 

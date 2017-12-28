@@ -5,8 +5,10 @@ from keras.layers import Dense, Dropout, Activation
 from keras.optimizers import SGD
 
 import numpy as np
+from numpy import genfromtxt
 
 import os.path
+# import  main
 
 
 class ResumeClassifier:
@@ -16,6 +18,7 @@ class ResumeClassifier:
         # load model if there's an existing one
         self._MODEL_FILE = 'model/resume_classifier_model_sample1.h5'
         self._model = None
+        self._input_size = 100
 
         if os.path.isfile(self._MODEL_FILE):
             # if model file exists
@@ -27,7 +30,7 @@ class ResumeClassifier:
     def __init_model(self):
         # initialize model configuration
         self._model = Sequential()
-        self._model.add(Dense(150, activation='relu', input_dim=100))
+        self._model.add(Dense(150, activation='relu', input_dim=self._input_size))
         self._model.add(Dropout(0.5))
         self._model.add(Dense(150, activation='relu'))
         self._model.add(Dropout(0.5))
@@ -49,13 +52,25 @@ class ResumeClassifier:
     def train(self):
         # train the neural network
         # temp training data
-        training_set = np.loadtxt('data/training_set.csv', delimiter=',')
 
-        x_train = training_set[:,0:100]
-        y_train = training_set[:][:,100]
+        #training_set = np.loadtxt('data/training_set_dec.csv', delimiter=',')
+        filename = 'data/training_set.csv'
+        file = open(filename, 'r')
+        training_set = file.readlines()
 
+        x_train = training_set[:][0:self._input_size]
+        y_train = training_set[:][:-1]
+
+        print('out')
         print(y_train)
         print(len(y_train))
+
+        print('in')
+        print(x_train)
+        print(len(x_train))
+
+        for i in x_train:
+            print(i)
 
         for i in y_train:
             print(i)
@@ -76,7 +91,10 @@ class ResumeClassifier:
                   epochs=300,
                   batch_size=100)
         self.__save_model()
-        #score = model.evaluate(x_test, y_test, batch_size=10)
+
+
+        score = self._model.evaluate(x_train, y_train_np, batch_size=100)
+        print("\n%s: %.2f%%" % (self._model.metrics_names[1], score[1]*100))
 
     def classify(self, inputs=None):
         # classify input
@@ -85,3 +103,5 @@ class ResumeClassifier:
         outputs = self._model.predict(inputs)
         print(outputs)
         
+if __name__ == '__main__':
+    main.run()

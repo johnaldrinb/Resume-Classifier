@@ -1,0 +1,124 @@
+row-1-13
+Using TensorFlow backend.
+[[ 0.04526426  0.02100153  0.42295906  0.51077521]]
+Web Developer > Not Matched!
+[[ 0.43446466  0.54685074  0.00080289  0.01788181]]
+Software Engineer > Not Matched!
+[[  9.99939084e-01   7.46200885e-06   3.99795340e-07   5.30594261e-05]]
+Software Developer > Matched!
+[[  9.67351019e-01   1.87565817e-07   6.18971683e-07   3.26481611e-02]]
+Software Developer > Matched!
+[[  3.20113468e-04   9.99178112e-01   4.02498641e-04   9.92340647e-05]]
+Software Engineer > Not Matched!
+[[  4.57637846e-01   9.01474050e-05   1.49974312e-06   5.42270482e-01]]
+Web Developer > Not Matched!
+[[  7.07787985e-04   5.00837326e-01   7.00018500e-05   4.98384833e-01]]
+Software Engineer > Not Matched!
+[[ 0.00376373  0.48176426  0.00969248  0.50477952]]
+Web Developer > Not Matched!
+[[  9.98223960e-01   2.64055103e-07   1.16973887e-07   1.77566800e-03]]
+Software Developer > Matched!
+[[  4.15640316e-05   2.11643237e-05   2.35241489e-04   9.99702036e-01]]
+Web Developer > Not Matched!
+[[ 0.7596724   0.219367    0.00434681  0.01661388]]
+Software Developer > Matched!
+[[  5.12168568e-04   8.73926401e-01   4.18071431e-05   1.25519708e-01]]
+Software Engineer > Not Matched!
+[[  2.06484050e-02   9.78984952e-01   2.77949526e-04   8.85668051e-05]]
+Software Engineer > Not Matched!
+test result: 4/13
+[Finished in 45.1s]
+
+row-43-56
+Using TensorFlow backend.
+[[  2.44630996e-07   9.23350498e-08   9.45583878e-09   9.99999642e-01]]
+Web Developer > Not Matched!
+[[  3.30511713e-04   9.98764157e-01   3.45597573e-06   9.01838008e-04]]
+Software Engineer > Matched!
+[[ 0.46453515  0.18290754  0.00285781  0.3496995 ]]
+Software Developer > Not Matched!
+[[  2.81989060e-06   9.99980807e-01   1.44061014e-05   1.92033713e-06]]
+Software Engineer > Matched!
+[[  8.89560033e-06   5.64408879e-07   2.14664979e-05   9.99969125e-01]]
+Web Developer > Not Matched!
+[[  7.76405155e-04   2.98806917e-05   4.16217887e-07   9.99193251e-01]]
+Web Developer > Not Matched!
+[[  9.87341255e-03   9.89544809e-01   4.89134982e-04   9.25919376e-05]]
+Software Engineer > Matched!
+[[  7.10835639e-06   9.96273279e-01   2.60999805e-04   3.45849874e-03]]
+Software Engineer > Matched!
+[[  1.13045182e-07   9.99994636e-01   5.43774910e-08   5.21124639e-06]]
+Software Engineer > Matched!
+[[ 0.0093274   0.56996083  0.09301257  0.32769921]]
+Software Engineer > Matched!
+[[  9.78253722e-01   6.53070956e-03   8.84276687e-07   1.52146788e-02]]
+Software Developer > Not Matched!
+[[  1.30671624e-03   1.50296162e-03   1.57651419e-04   9.97032642e-01]]
+Web Developer > Not Matched!
+[[  9.08501923e-01   1.51944812e-03   1.12267408e-04   8.98663029e-02]]
+Software Developer > Not Matched!
+test result: 6/13
+[Finished in 43.6s]
+
+row-83-96
+Using TensorFlow backend.
+[[  2.85021565e-03   9.97121155e-01   2.75965194e-05   1.12867235e-06]]
+Software Engineer > Not Matched!
+[[ 0.01048281  0.00399047  0.91316426  0.07236248]]
+System Analyst > Matched!
+[[  1.71685806e-05   3.70953285e-06   2.41128087e-01   7.58851051e-01]]
+Web Developer > Not Matched!
+[[  9.23522806e-04   9.94543791e-01   3.57634062e-03   9.56313335e-04]]
+Software Engineer > Not Matched!
+[[  2.69420534e-01   7.30052769e-01   3.28906637e-04   1.97778179e-04]]
+Software Engineer > Not Matched!
+[[  6.63350162e-04   1.27948124e-05   1.82489515e-03   9.97498930e-01]]
+Web Developer > Not Matched!
+[[  9.74834621e-01   7.23414041e-06   2.40984780e-04   2.49171723e-02]]
+Software Developer > Not Matched!
+[[ 0.07309297  0.57684708  0.27452806  0.07553194]]
+Software Engineer > Not Matched!
+[[  9.93405461e-01   6.54744357e-03   1.27976318e-05   3.42748390e-05]]
+Software Developer > Not Matched!
+[[  9.20444290e-06   1.64260726e-07   2.02356134e-07   9.99990463e-01]]
+Web Developer > Not Matched!
+[[  2.97967922e-02   7.76238382e-01   4.06352803e-04   1.93558559e-01]]
+Software Engineer > Not Matched!
+[[  4.45290098e-05   8.97510290e-06   2.30364572e-06   9.99944210e-01]]
+Web Developer > Not Matched!
+[[  1.05950885e-05   9.97210681e-01   3.53303039e-05   2.74344115e-03]]
+Software Engineer > Not Matched!
+test result: 1/13
+[Finished in 43.8s]
+
+row-110-123
+Using TensorFlow backend.
+[[  1.88190188e-05   1.16166899e-04   9.72194343e-08   9.99864936e-01]]
+Web Developer > Matched!
+[[  3.19734863e-05   9.99881387e-01   1.32123228e-06   8.53104648e-05]]
+Software Engineer > Not Matched!
+[[  9.99784768e-01   1.71200954e-05   3.02733660e-08   1.98137364e-04]]
+Software Developer > Not Matched!
+[[  5.23836992e-04   9.99098063e-01   9.35339449e-06   3.68747103e-04]]
+Software Engineer > Not Matched!
+[[  7.77338137e-05   3.30523267e-06   7.68747577e-06   9.99911308e-01]]
+Web Developer > Matched!
+[[  1.84207992e-03   3.59155929e-05   2.41917209e-04   9.97880101e-01]]
+Web Developer > Matched!
+[[ 0.99366343  0.0010709   0.00198752  0.00327813]]
+Software Developer > Not Matched!
+[[  9.94883180e-01   2.65926053e-03   3.88231674e-05   2.41885055e-03]]
+Software Developer > Not Matched!
+[[  8.87519866e-03   4.73033151e-06   1.20401646e-05   9.91108060e-01]]
+Web Developer > Matched!
+[[  7.31287628e-07   2.39888976e-07   1.06495568e-09   9.99999046e-01]]
+Web Developer > Matched!
+[[  2.98366975e-03   6.23222434e-08   8.07891887e-09   9.97016311e-01]]
+Web Developer > Matched!
+[[  6.70354441e-02   9.32690501e-01   2.21415849e-06   2.71812140e-04]]
+Software Engineer > Not Matched!
+test result: 6/12
+[Finished in 41.2s]
+
+
+final result: 17/51 (correct classification/total classifications)

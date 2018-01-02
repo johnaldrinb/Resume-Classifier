@@ -17,7 +17,7 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model_sample3.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_k3_3.h5'
         self._model = None
         self._input_size = 100
 
@@ -52,9 +52,11 @@ class ResumeClassifier:
 
     def train(self):
         # train the neural network
-        training_set = np.genfromtxt('data/training_data_normalized.csv', delimiter=',')
+        training_set = np.genfromtxt('data/training_set_interpolated_k3_3.csv', delimiter=',')
+
         x_train = training_set[:,0:100]
         y_train = training_set[:,-1]
+        print(y_train)
         y_train_np = keras.utils.to_categorical(y_train, num_classes=4)
 
         self._model.fit(x_train,
@@ -72,16 +74,7 @@ class ResumeClassifier:
         # arguments: inputs - array of input
         # must return array of probabilities
         outputs = self._model.predict(inputs)
-        index = np.argmax(outputs)
-
-        if index == 0:
-            return('Software Developer')
-        elif index == 1:
-            return('Software Engineer')
-        elif index == 2:
-            return('System Analyst')
-        elif index == 3:
-            return('Web Developer')
+        return outputs
         
 if __name__ == '__main__':
     main.run()

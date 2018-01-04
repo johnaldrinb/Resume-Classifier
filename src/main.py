@@ -36,23 +36,23 @@ def test(in1, in2, out):
 
 if __name__ == '__main__':
     # train before testing new k-test dataset
-    # classifier = ResumeClassifier()
-    # classifier.train()
+    classifier = ResumeClassifier()
+    classifier.train()
 
-    classifications = 0
-    correct_classification = 0
-    incorrect_classification = 0
+    # classifications = 0
+    # correct_classification = 0
+    # incorrect_classification = 0
 
-    for i in range(13):
-        i+=123
-        classification = test(i, i+1, 3)
+    # for i in range(13):
+    #     i+=123
+    #     classification = test(i, i+1, 3)
 
-        if classification == 1:
-            correct_classification+=1
-        else:
-            incorrect_classification+=1
+    #     if classification == 1:
+    #         correct_classification+=1
+    #     else:
+    #         incorrect_classification+=1
 
-        classifications+=1
+    #     classifications+=1
 
-    print('test result: ' + str(correct_classification) + '/' +
-     str(classifications))
+    # print('test result: ' + str(correct_classification) + '/' +
+    #  str(classifications))

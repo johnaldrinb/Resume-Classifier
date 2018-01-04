@@ -1,3 +1,4 @@
+import random
 
 class Normalizer:
 
@@ -24,12 +25,30 @@ class Normalizer:
 
         return interpolated
 
+    def duplicate_trainint_set(self, job_index):
+        jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
+        job = jobs[job_index]
+
+        in_filename = 'data/' + job + '_index_interpolated.txt'
+        out_filename = 'data/' + job + '_index_interpolated_long.txt'        
+
+        file = open(in_filename, 'r')
+        skills = file.readlines()
+        skills_indexes = random.sample(skills, len(skills))
+
+        for skill in skills_indexes:
+            out = open(out_filename, 'a')
+            out.write(str(skill))
+            # out.write('\n')
+
+        out.close()
+
     def write_training_set(self, job_index):
         jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
         job = jobs[job_index]
 
         in_filename = 'data/' + job + '.txt'
-        out_filename = 'data/' + job + '_index_interpolated.txt'
+        out_filename = 'data/' + job + '_index_interpolated_long.txt'
         
         file = open(in_filename, 'r')
         skills = file.readlines()
@@ -56,8 +75,8 @@ class Normalizer:
         jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
         job = jobs[job_index]
 
-        in_filename = 'data/' + job + '_index_interpolated.txt'
-        out_filename = 'data/training_set_interpolated.csv'
+        in_filename = 'data/' + job + '_index_interpolated_long.txt'
+        out_filename = 'data/training_set_interpolated_long.csv'
 
         file = open(in_filename, 'r')
         skills = file.readlines()
@@ -95,9 +114,24 @@ class Normalizer:
         out.write('\n')
         out.close()
 
+    def interpolate_skills(skills):
+        interpolated_skill = []
+
+        for skill in skills:
+            interpolated_skill.append(get_skill_index(skill))
+
+        return interpolated_skill
+
 
 if __name__ == '__main__':
     normalizer = Normalizer()
+    counter = 0
+
+    # normalizer.write_training_set(0)
 
     for i in range(4):
+        # i = i%4
+        # counter+=1
+        print(counter)
         normalizer.compile_training_set(i)
+        # normalizer.duplicate_trainint_set(i)

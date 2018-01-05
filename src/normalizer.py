@@ -18,14 +18,23 @@ class Normalizer:
         index = 0
 
         skills = file.readlines()
+        skills_strip = []
 
-        index = skills.index(skill_description.upper())
-        interpolated = float(self.interpolate(index, len(skills), -1))
-        # float()print(interpolated)
+        for skill in skills:
+            skills_strip.append(skill.strip())
+
+        # try:
+        index = skills_strip.index(skill_description.upper().strip())
+        interpolated = float(self.interpolate(index, len(skills_strip), -1))
+
+        print(interpolated)
 
         return interpolated
+        # except:
+        #     return -1
+        # float()print(interpolated)
 
-    def duplicate_trainint_set(self, job_index):
+    def duplicate_training_set(self, job_index):
         jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
         job = jobs[job_index]
 
@@ -48,16 +57,16 @@ class Normalizer:
         job = jobs[job_index]
 
         in_filename = 'data/' + job + '.txt'
-        out_filename = 'data/' + job + '_index_interpolated_long.txt'
+        out_filename = 'data/' + job + '_index_interpolated_75.txt'
         
         file = open(in_filename, 'r')
         skills = file.readlines()
         skills_indexes = [None]
 
-        cols = 100
+        cols = 75
         col_count = 0
         index = job_index
-        remainder = len(skills) % 100
+        remainder = len(skills) % cols
 
         print('writing to > ' + out_filename)
 
@@ -75,24 +84,24 @@ class Normalizer:
         jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
         job = jobs[job_index]
 
-        in_filename = 'data/' + job + '_index_interpolated_long.txt'
-        out_filename = 'data/training_set_interpolated_long.csv'
+        in_filename = 'data/' + job + '_index_interpolated_75.txt'
+        out_filename = 'data/training_set_interpolated_75.csv'
 
         file = open(in_filename, 'r')
         skills = file.readlines()
         skills_indexes = [None]
 
-        cols = 100
+        cols = 75
         col_count = 0
         index = job_index
-        remainder = len(skills) % 100
+        remainder = len(skills) % cols
 
         print('writing to > ' + out_filename)
 
         if remainder > 0:
             print(len(skills))
             print(remainder)
-            remainder = 100 - remainder
+            remainder = cols - remainder
             for i in range(remainder):
                 skills.append('-1')
 
@@ -114,11 +123,11 @@ class Normalizer:
         out.write('\n')
         out.close()
 
-    def interpolate_skills(skills):
+    def interpolate_skills(self, skills):
         interpolated_skill = []
 
         for skill in skills:
-            interpolated_skill.append(get_skill_index(skill))
+            interpolated_skill.append(self.get_skill_index(skill))
 
         return interpolated_skill
 
@@ -129,9 +138,11 @@ if __name__ == '__main__':
 
     # normalizer.write_training_set(0)
 
-    for i in range(4):
-        # i = i%4
-        # counter+=1
+    for i in range(32):
+        i = i%4
+        counter+=1
         print(counter)
+        # normalizer.write_training_set(i)
         normalizer.compile_training_set(i)
-        # normalizer.duplicate_trainint_set(i)
+        # normalizer.duplicate_training_set(i)
+ 

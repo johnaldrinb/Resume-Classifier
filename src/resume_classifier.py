@@ -19,9 +19,9 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_long.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_75.h5'
         self._model = None
-        self._input_size = 100
+        self._input_size = 75
 
         if os.path.isfile(self._MODEL_FILE):
             # if model file exists
@@ -35,11 +35,13 @@ class ResumeClassifier:
         self._model = Sequential()
         self._model.add(Dense(150, activation='relu', input_dim=self._input_size))
         self._model.add(Dropout(0.5))
-        self._model.add(Dense(150, activation='relu'))
+        self._model.add(Dense(250, activation='relu'))
+        self._model.add(Dropout(0.5))
+        self._model.add(Dense(80, activation='relu'))
         self._model.add(Dropout(0.5))
         self._model.add(Dense(4, activation='softmax'))
 
-        sgd = SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
+        sgd = SGD(lr=0.02, decay=1e-3, momentum=0.9, nesterov=True)
         self._model.compile(loss='categorical_crossentropy',
                       optimizer=sgd,
                       metrics=['accuracy'])
@@ -55,26 +57,32 @@ class ResumeClassifier:
     def train(self):
         # train the neural network
         seed = 7
-        training_set = np.genfromtxt('data/training_set_interpolated_long.csv',
+        training_set = np.genfromtxt('data/training_set_interpolated_75.csv',
                                      delimiter=',')
 
-        x_train = training_set[:,0:100]
+        x_train = training_set[:,0:self._input_size]
         y_train = training_set[:,-1]
         print(y_train)
         y_train_np = keras.utils.to_categorical(y_train, num_classes=4)
-        x_train, x_test, y_train, y_test = train_test_split(x_train,
-                                                            y_train_np,
-                                                            test_size=0.33,
-                                                            random_state=seed)
+        # UNCOMMENT IF USING KFOL-CV
+        # x_train, x_test, y_train, y_test = train_test_split(x_train,
+        #                                                     y_train_np,
+        #                                                     test_size=0.33,
+        #                                                     random_state=seed)
 
         test_result = []
 
-
         self._model.fit(x_train,
-                  y_train,
-                  validation_data=(x_test,y_test),
-                  epochs=300,
-                  batch_size=100)
+                  y_train_np,
+                  epochs=800,
+                  batch_size=35)
+        # UNCOMMENT IF USING KFOL-CV
+        # self._model.fit(x_train,
+        #           y_train,
+        #           validation_data=(x_test,y_test),
+        #           epochs=800,
+        #           batch_size=35)
+
         # scores = self._model.evaluate(x_train[test],
         #                               y_train_np[test],
         #                               verbose=0)

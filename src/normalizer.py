@@ -27,7 +27,7 @@ class Normalizer:
         index = skills_strip.index(skill_description.upper().strip())
         interpolated = float(self.interpolate(index, len(skills_strip), -1))
 
-        print(interpolated)
+        # print(interpolated)
 
         return interpolated
         # except:
@@ -38,8 +38,8 @@ class Normalizer:
         jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
         job = jobs[job_index]
 
-        in_filename = 'data/' + job + '_index_interpolated.txt'
-        out_filename = 'data/' + job + '_index_interpolated_long.txt'        
+        in_filename = 'data/' + job + '_index_interpolated_5.txt'
+        out_filename = 'data/' + job + '_index_interpolated_5_long.txt'        
 
         file = open(in_filename, 'r')
         skills = file.readlines()
@@ -57,13 +57,13 @@ class Normalizer:
         job = jobs[job_index]
 
         in_filename = 'data/' + job + '.txt'
-        out_filename = 'data/' + job + '_index_interpolated_75.txt'
+        out_filename = 'data/' + job + '_index_interpolated_5.txt'
         
         file = open(in_filename, 'r')
         skills = file.readlines()
         skills_indexes = [None]
 
-        cols = 75
+        cols = 5
         col_count = 0
         index = job_index
         remainder = len(skills) % cols
@@ -84,22 +84,23 @@ class Normalizer:
         jobs = ['skillsSoftDev', 'skillsSoftEng', 'skillsSysAnal', 'skillsWeb']
         job = jobs[job_index]
 
-        in_filename = 'data/' + job + '_index_interpolated_75.txt'
-        out_filename = 'data/training_set_interpolated_75.csv'
+        in_filename = 'data/' + job + '_index_interpolated_5.txt'
+        out_filename = 'data/training_set_interpolated_5.csv'
 
         file = open(in_filename, 'r')
         skills = file.readlines()
         skills_indexes = [None]
 
-        cols = 75
+        cols = 5
         col_count = 0
         index = job_index
         remainder = len(skills) % cols
 
         print('writing to > ' + out_filename)
 
+        print(len(skills))
+
         if remainder > 0:
-            print(len(skills))
             print(remainder)
             remainder = cols - remainder
             for i in range(remainder):
@@ -135,14 +136,25 @@ class Normalizer:
 if __name__ == '__main__':
     normalizer = Normalizer()
     counter = 0
+    mode_writing_training_set = False
+    mode_duplicating_training_set = False
+    mode_compiling_training_set = True
 
-    # normalizer.write_training_set(0)
+    loop_range = 4
 
-    for i in range(32):
-        i = i%4
-        counter+=1
-        print(counter)
-        # normalizer.write_training_set(i)
-        normalizer.compile_training_set(i)
-        # normalizer.duplicate_training_set(i)
+    if mode_duplicating_training_set is True:
+        loop_range = 32
+
+    for i in range(loop_range):
+        if mode_writing_training_set is True:
+            normalizer.write_training_set(i)
+
+        elif mode_compiling_training_set is True:
+            normalizer.compile_training_set(i)
+
+        elif mode_duplicating_training_set is True:
+            i = i%4
+            counter+=1
+            print(counter)
+            normalizer.duplicate_training_set(i)
  

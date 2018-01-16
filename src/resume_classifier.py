@@ -19,9 +19,9 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_75.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_5.h5'
         self._model = None
-        self._input_size = 75
+        self._input_size = 5
 
         if os.path.isfile(self._MODEL_FILE):
             # if model file exists
@@ -33,15 +33,13 @@ class ResumeClassifier:
     def __init_model(self):
         # initialize model configuration
         self._model = Sequential()
-        self._model.add(Dense(150, activation='relu', input_dim=self._input_size))
+        self._model.add(Dense(512, activation='relu', input_dim=self._input_size))
         self._model.add(Dropout(0.5))
-        self._model.add(Dense(250, activation='relu'))
-        self._model.add(Dropout(0.5))
-        self._model.add(Dense(80, activation='relu'))
+        self._model.add(Dense(864, activation='relu'))
         self._model.add(Dropout(0.5))
         self._model.add(Dense(4, activation='softmax'))
 
-        sgd = SGD(lr=0.02, decay=1e-3, momentum=0.9, nesterov=True)
+        sgd = SGD(lr=0.001, decay=1e-3, momentum=0.9, nesterov=True)
         self._model.compile(loss='categorical_crossentropy',
                       optimizer=sgd,
                       metrics=['accuracy'])
@@ -57,7 +55,7 @@ class ResumeClassifier:
     def train(self):
         # train the neural network
         seed = 7
-        training_set = np.genfromtxt('data/training_set_interpolated_75.csv',
+        training_set = np.genfromtxt('data/training_set_interpolated_5.csv',
                                      delimiter=',')
 
         x_train = training_set[:,0:self._input_size]

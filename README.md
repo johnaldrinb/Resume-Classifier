@@ -5,3 +5,4 @@ Resume classifier using neural network
 - tensorflow
 - keras
 - h5py
+- sklearn

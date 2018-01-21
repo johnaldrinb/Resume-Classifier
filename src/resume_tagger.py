@@ -8,7 +8,8 @@ from normalizer import Normalizer
 classifier = ResumeClassifier()
 
 def run():
-    categorize_resume()
+    category = categorize_resume()
+    print(category)
 
 def connect_db(db_file):
     try:
@@ -30,6 +31,18 @@ def fetch_resume_ids():
     # print(id_list)
 
     return id_list
+
+def fetch_category(resume_id):
+    conn = connect_db('data/main.db')
+    cursor = conn.cursor()
+
+    resume_id = int(resume_id)
+    print(resume_id)
+
+    cursor.execute('SELECT CATEGORY FROM RESUME WHERE resume_id=?', (resume_id,))
+    rows = cursor.fetchall()
+
+    return rows
 
 def fetch_skills(resume_id):
     # 
@@ -63,8 +76,9 @@ def update_resume_category(category, resume_id):
     conn = connect_db('data/main.db')
     cursor = conn.cursor()
 
-    cursor.execute('INSERT INTO RESUME (CATEGORY) VALUES (?) WHERE resume_id=?',
-                    (category, resume_id,))
+    cursor.execute('UPDATE RESUME SET CATEGORY=? WHERE resume_id=?',
+                    (category, resume_id)
+                    )
 
     conn.commit()
     conn.close()
@@ -122,7 +136,7 @@ def get_job_description(job_index):
     elif job_index == 1:
         category = 'Software Engineer'
     elif job_index == 2:
-        category = 'System Analyst'
+        category = 'System\'s Analyst'
     elif job_index == 3:
         category = 'Web Developer'
 
@@ -154,21 +168,22 @@ def get_max(list):
 def categorize_resume():
     resume_ids = fetch_resume_ids()
     normalizer = Normalizer()
+    categories = []
 
     print(resume_ids)
 
     for resume_id in resume_ids:
         skills = fetch_skills(resume_id)
         output_group = [0, 0, 0, 0]
+        cat = fetch_category(resume_id)
 
+        print('category from db....')
+        print(cat)
         print(skills)
 
         skills = normalizer.interpolate_skills(skills)
         lack = 0
         input_size = 5
-
-        # print("grouped list")
-        # print(group_list(skills, 5))
 
         grouped_skills = group_list(skills, 5)
 
@@ -191,6 +206,7 @@ def categorize_resume():
 
             for item in out:
                 output_group[counter] += item
+                # output_group[counter] = output_group[counter] / (grouped_skills.index(group) + 1)
                 # print(output_group[counter])
                 counter += 1
                 if counter == 4:
@@ -202,11 +218,25 @@ def categorize_resume():
             index = get_max(output_group)
             category = get_job_description(index)
 
-        # update_resume_category(category, resume_id)
+        '''
+            Converts the output to probabiilty
+            and appends it to the category string
+        '''
+        sum_output = sum(output_group[0:4])
+        for output in output_group[0:4]:
+            output = (output / sum_output) * 100
+            str_out = str(output)
+            category = category + ',' + str_out
+
+        categories.append(category)
+        update_resume_category(category, resume_id)
+
+        print('\n')
+        print(output_group[0:4])
         print('\nFinal-Output: ' + category)
         print('\n****\n')
 
-
+    return categories
 
 if __name__ == '__main__':
     # classifier = ResumeClassifier()

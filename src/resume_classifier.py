@@ -19,7 +19,7 @@ class ResumeClassifier:
     def __init__(self):
         # initialize model
         # load model if there's an existing one
-        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_5.h5'
+        self._MODEL_FILE = 'model/resume_classifier_model_interpolated_8.h5'
         self._model = None
         self._input_size = 5
 
@@ -33,13 +33,11 @@ class ResumeClassifier:
     def __init_model(self):
         # initialize model configuration
         self._model = Sequential()
-        self._model.add(Dense(512, activation='relu', input_dim=self._input_size))
-        self._model.add(Dropout(0.5))
-        self._model.add(Dense(864, activation='relu'))
-        self._model.add(Dropout(0.5))
+        self._model.add(Dense(32, activation='relu', input_dim=self._input_size))
+        self._model.add(Dropout(0.3))
         self._model.add(Dense(4, activation='softmax'))
 
-        sgd = SGD(lr=0.001, decay=1e-3, momentum=0.9, nesterov=True)
+        sgd = SGD(lr=0.001, decay=1e-5, momentum=0.9, nesterov=True)
         self._model.compile(loss='categorical_crossentropy',
                       optimizer=sgd,
                       metrics=['accuracy'])
@@ -73,7 +71,7 @@ class ResumeClassifier:
         self._model.fit(x_train,
                   y_train_np,
                   epochs=800,
-                  batch_size=35)
+                  batch_size=128)
         # UNCOMMENT IF USING KFOL-CV
         # self._model.fit(x_train,
         #           y_train,
@@ -100,6 +98,3 @@ class ResumeClassifier:
         # must return array of probabilities
         outputs = self._model.predict(inputs)
         return outputs
-        
-if __name__ == '__main__':
-    main.run()
